@@ -2,7 +2,7 @@
 
 [public-apis/public-apis](https://github.com/public-apis/public-apis) 的**中文目录镜像**。
 
-> ⚠️ 本仓库内容由独立的[同步器仓库](https://github.com/public-apis/public-apis)（Actions 定时任务）**自动生成并推送**，**请勿手工修改** `README.zh-CN.md`。如需修正翻译，请到同步器仓库调整。
+> ⚠️ 本仓库内容由独立的[同步器仓库](https://github.com/public-apis/public-apis)（Actions 定时任务）**自动生成并推送**，**AI自动翻译** `README.zh-CN.md`。翻译不准请自行修正。
 
 ## 内容
 
