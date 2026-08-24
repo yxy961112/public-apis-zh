@@ -4,7 +4,8 @@
 
 > 由 GitHub Actions 定时检测上游更新，自动调用翻译引擎将最新 API 目录翻译为简体中文。
 
-> - 上次同步：2026-08-24 07:12 UTC
+> - 上游最新提交：`c045a2e`（2026-08-19T21:44:19Z）
+> - 上次同步：2026-08-24 07:49 UTC
 > - 许可证：沿用上游 MIT
 
 
@@ -98,7 +99,7 @@
 | [Dog Facts](https://dukengn.github.io/Dog-facts-API/) | 随机狗的事实 | No | Yes | Yes |
 | [Dog Facts](https://kinduff.github.io/dog-api/) | 狗的随机事实 | No | Yes | Yes |
 | [Dogs](https://dog.ceo/dog-api/) | 基于斯坦福狗数据集 | No | Yes | Yes |
-| [eBird](https://documenter.getpostman.com/view/664302/S1ENwy59) | Retrieve recent or notable birding observations within a region | apiKey | Yes | No |
+| [eBird](https://documenter.getpostman.com/view/664302/S1ENwy59) | 检索某个区域内最近或值得注意的观鸟观测结果 | apiKey | Yes | No |
 | [FishWatch](https://www.fishwatch.gov/developers) | 有关个别鱼类的信息和图片 | No | Yes | Yes |
 | [HTTP Cat](https://http.cat/) | 针对每个 HTTP 状态的 Cat | No | Yes | Yes |
 | [HTTP Dog](https://http.dog/) | 每个 HTTP 响应状态代码的狗 | No | Yes | Yes |
