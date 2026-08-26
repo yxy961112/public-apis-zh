@@ -4,8 +4,8 @@
 
 > 由 GitHub Actions 定时检测上游更新，自动调用翻译引擎将最新 API 目录翻译为简体中文。
 
-> - 上游最新提交：`230f553`（2026-08-26T18:58:12Z）
-> - 上次同步：2026-08-26 19:05 UTC
+> - 上游最新提交：`988c57b`（2026-08-26T19:19:56Z）
+> - 上次同步：2026-08-26 22:48 UTC
 > - 许可证：沿用上游 MIT
 
 
@@ -391,7 +391,7 @@
 | [Blockchain](https://www.blockchain.com/api) | 比特币支付、钱包和交易数据 | apiKey | Yes | Unknown |
 | [blockfrost Cardano](https://blockfrost.io/) | 与卡尔达诺主网和多个测试网的交互 | apiKey | Yes | Unknown |
 | [Brave NewCoin](https://bravenewcoin.com/developers) | 来自 200 多个交易所的实时和历史加密数据 | apiKey | Yes | Unknown |
-| [BTCGlobe](https://btcglobe.live/join#makers) | Bitcoin height, fees, mempool and peer data served live from two self-hosted nodes | No | Yes | Yes |
+| [BTCGlobe](https://btcglobe.live/join#makers) | 比特币高度、费用、内存池和对等数据由两个自托管节点实时提供 | No | Yes | Yes |
 | [btcnode.uk](https://btcnode.uk) | 比特币区块链数据、费用、mempool、SEC 内幕交易、Reddit 情绪。用于付费端点的 x402 小额支付。 | No | Yes | Unknown |
 | [BtcTurk](https://docs.btcturk.com/) | 实时加密货币数据、图表和允许买卖的 API | apiKey | Yes | Yes |
 | [Bybit](https://bybit-exchange.github.io/docs/linear/#t-introduction) | 加密货币数据馈送和算法交易 | apiKey | Yes | Unknown |
@@ -849,7 +849,7 @@
 | [Indian Mutual Fund](https://www.mfapi.in/) | 获取印度共同基金数据的完整历史 | No | Yes | Unknown |
 | [Intrinio](https://intrinio.com/) | 广泛的金融数据源选择 | apiKey | Yes | Unknown |
 | [Klarna](https://docs.klarna.com/klarna-payments/api/payments-api/) | Klarna 支付和购物服务 | apiKey | Yes | Unknown |
-| [LiquiLens](https://liquilens.in/developers/) | Public-record bank and lender failure-risk evidence | No | Yes | Yes |
+| [LiquiLens](https://liquilens.in/developers/) | 公开记录的银行和贷方失败风险证据 | No | Yes | Yes |
 | [MercadoPago](https://www.mercadopago.com.br/developers/es/reference) | Mercado Pago API 参考 - 开发集成所需的所有信息 | apiKey | Yes | Unknown |
 | [Mono](https://mono.co/) | 连接用户的银行账户并访问非洲的交易数据 | apiKey | Yes | Unknown |
 | [Moov](https://docs.moov.io/api/) | Moov API 使平台可以轻松发送、接收和存储资金 | apiKey | Yes | Unknown |
@@ -1623,6 +1623,7 @@
 | [Materials Platform for Data Science](https://mpds.io) | 材料科学的策划实验数据 | apiKey | Yes | No |
 | [Minor Planet Center](http://www.asterank.com/mpc) | Asterrank.com 信息 | No | No | Unknown |
 | [NASA](https://api.nasa.gov) | NASA 数据，包括图像 | No | Yes | No |
+| [NASA InSight](https://api.nasa.gov/) | 来自洞察号着陆器的火星天气数据 | apiKey | Yes | Yes |
 | [NASA ADS](https://ui.adsabs.harvard.edu/help/api/api-docs.html) | 美国宇航局天体物理数据系统 | OAuth | Yes | Yes |
 | [Newton](https://newton.vercel.app) | 符号和算术数学计算器 | No | Yes | No |
 | [Noctua](https://api.noctuasky.com/api/v1/swaggerdoc/) | 用于访问NoctuaSky功能的REST API | No | Yes | Unknown |
@@ -2126,6 +2127,7 @@
 | [ODWeather](http://api.oceandrivers.com/static/docs.html) | 天气和天气网络摄像头 | No | No | Unknown |
 | [Oikolab](https://docs.oikolab.com) | 来自 NOAA 和 ECMWF 的 70 多年全球每小时历史和预报天气数据 | apiKey | Yes | Yes |
 | [Open-Meteo](https://open-meteo.com/) | 非商业用途的全球天气预报 API | No | Yes | Yes |
+| [Open-Meteo Ensemble](https://open-meteo.com/en/docs/ensemble-api) | Weather ensemble forecasts from multiple models | No | Yes | Yes |
 | [openSenseMap](https://api.opensensemap.org/) | 来自称为 senseBoxes 的个人气象站的数据 | No | Yes | Yes |
 | [OpenUV](https://www.openuv.io) | 实时紫外线指数预测 | apiKey | Yes | Unknown |
 | [OpenWeatherMap](https://openweathermap.org/api) | 天气 | apiKey | Yes | Unknown |
