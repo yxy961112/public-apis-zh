@@ -4,8 +4,8 @@
 
 > 由 GitHub Actions 定时检测上游更新，自动调用翻译引擎将最新 API 目录翻译为简体中文。
 
-> - 上游最新提交：`40f8609`（2026-08-26T10:11:55Z）
-> - 上次同步：2026-08-26 10:36 UTC
+> - 上游最新提交：`230f553`（2026-08-26T18:58:12Z）
+> - 上次同步：2026-08-26 19:05 UTC
 > - 许可证：沿用上游 MIT
 
 
@@ -391,6 +391,7 @@
 | [Blockchain](https://www.blockchain.com/api) | 比特币支付、钱包和交易数据 | apiKey | Yes | Unknown |
 | [blockfrost Cardano](https://blockfrost.io/) | 与卡尔达诺主网和多个测试网的交互 | apiKey | Yes | Unknown |
 | [Brave NewCoin](https://bravenewcoin.com/developers) | 来自 200 多个交易所的实时和历史加密数据 | apiKey | Yes | Unknown |
+| [BTCGlobe](https://btcglobe.live/join#makers) | Bitcoin height, fees, mempool and peer data served live from two self-hosted nodes | No | Yes | Yes |
 | [btcnode.uk](https://btcnode.uk) | 比特币区块链数据、费用、mempool、SEC 内幕交易、Reddit 情绪。用于付费端点的 x402 小额支付。 | No | Yes | Unknown |
 | [BtcTurk](https://docs.btcturk.com/) | 实时加密货币数据、图表和允许买卖的 API | apiKey | Yes | Yes |
 | [Bybit](https://bybit-exchange.github.io/docs/linear/#t-introduction) | 加密货币数据馈送和算法交易 | apiKey | Yes | Unknown |
@@ -743,6 +744,7 @@
 | [PostStack](https://poststack.dev/docs) | 欧盟托管的电子邮件 API，用于交易和营销电子邮件，包含联系人、广播和分析 | apiKey | Yes | No |
 | [Sendgrid](https://docs.sendgrid.com/api-reference/) | 基于云的 SMTP 提供商，让您无需维护电子邮件服务器即可发送电子邮件 | apiKey | Yes | Unknown |
 | [Sendinblue](https://developers.sendinblue.com/docs) | 提供与营销和/或交易电子邮件和/或 SMS 相关的解决方案的服务 | apiKey | Yes | Unknown |
+| [SMTPfast](https://smtpfa.st/docs) | Send transactional email, manage contacts and broadcasts, free 3,000 emails/month | apiKey | Yes | Yes |
 | [uchecker](https://api.uchecker.net/docs) | 通过完整 SMTP 服务器响应进行批量电子邮件验证 | apiKey | Yes | Unknown |
 | [Verifier](https://verifier.meetchopra.com/docs#/) | 验证给定的电子邮件是否真实 | apiKey | Yes | Yes |
 
@@ -866,6 +868,7 @@
 | [Styvio](https://www.Styvio.com) | 实时和历史股票数据以及当前股票情绪 | apiKey | Yes | Unknown |
 | [Sugra](https://sugra.ai) | 一种用于市场数据、经济、大宗商品、气候和全球新闻的 API。 LLM 就绪 JSON | apiKey | Yes | Yes |
 | [Tax Data](https://apilayer.com/marketplace/tax_data-api) | 全球即时增值税号和税务验证 | apiKey | Yes | Unknown |
+| [TickerLayer](https://tickerlayer.com) | Real-time and historical market data for stocks, forex, crypto and more | apiKey | Yes | Unknown |
 | [Top 5 Stocks](https://top5stocks.netlify.app/developers) | 每日人工智能排名的股票和加密货币观察列表 | No | Yes | Unknown |
 | [Tradier](https://developer.tradier.com) | 美国股票/期权市场数据（延迟、盘中、历史） | OAuth | Yes | Yes |
 | [Twelve Data](https://twelvedata.com/) | 股市数据（实时和历史） | apiKey | Yes | Unknown |
@@ -2064,6 +2067,7 @@
 | [IMDb-API](https://imdb-api.com/) | 用于接收电影、连续剧和演员表信息的 API | apiKey | Yes | Unknown |
 | [IMDbOT](https://github.com/SpEcHiDe/IMDbOT) | 非官方 IMDb 电影/系列信息 | No | Yes | Yes |
 | [JSON2Video](https://json2video.com) | 以编程方式创建和编辑视频：水印、调整大小、幻灯片、画外音、文本动画 | apiKey | Yes | No |
+| [KinoPipe](https://kinopipe.com/docs) | Typed hosted video editing operations for agents and automation | apiKey | Yes | No |
 | [Lucifer Quotes](https://github.com/shadowoff09/lucifer-quotes) | 返回路西法的报价 | No | Yes | Unknown |
 | [MCU Countdown](https://github.com/DiljotSG/MCU-Countdown) | 下一部漫威电影宇宙电影倒计时 | No | Yes | Yes |
 | [Motivational Quotes](https://nodejs-quoteapp.herokuapp.com/) | 随机励志名言 | No | Yes | Unknown |
