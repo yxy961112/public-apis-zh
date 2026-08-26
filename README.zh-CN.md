@@ -4,8 +4,8 @@
 
 > 由 GitHub Actions 定时检测上游更新，自动调用翻译引擎将最新 API 目录翻译为简体中文。
 
-> - 上游最新提交：`c045a2e`（2026-08-19T21:44:19Z）
-> - 上次同步：2026-08-24 07:49 UTC
+> - 上游最新提交：`40f8609`（2026-08-26T10:11:55Z）
+> - 上次同步：2026-08-26 10:36 UTC
 > - 许可证：沿用上游 MIT
 
 
@@ -463,6 +463,7 @@
 | [Amdoren](https://www.amdoren.com/currency-api/) | 包含超过 150 种货币的免费货币 API | apiKey | Yes | Unknown |
 | [Bank of Russia](https://www.cbr.ru/development/SXML/) | 汇率和货币换算 | No | Yes | Unknown |
 | [Currency-api](https://github.com/fawazahmed0/currency-api#readme) | 免费货币汇率 API，支持 150 多种货币且无汇率限制 | No | Yes | Yes |
+| [CurrencyBeacon](https://currencybeacon.com/) | Real-time and historical currency exchange rates with free tier | apiKey | Yes | Yes |
 | [CurrencyFreaks](https://currencyfreaks.com/) | 通过每月 1K 请求的免费计划提供当前和历史货币汇率 | apiKey | Yes | Yes |
 | [CurrencyScoop](https://currencyscoop.com/api-documentation) | 实时和历史货币汇率 JSON API | apiKey | Yes | Yes |
 | [Czech National Bank](https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml) | 汇率集合 | No | Yes | Unknown |
@@ -828,6 +829,7 @@
 | [Econdb](https://www.econdb.com/api/) | 全球宏观经济数据 | No | Yes | Yes |
 | [EconPulse](https://econpulse.io) | 实时经济数据 — CPI、PPI、能源、国债利率、BTC 溢价 | apiKey | Yes | Yes |
 | [Edgrapi](https://edgrapi.com) | 将 SEC EDGAR 公司财务、比率、文件和 10-K/10-Q 部分清理为标准化 JSON | apiKey | Yes | Unknown |
+| [EOD Historical Data](https://eodhd.com/) | Real-time and historical stock market data with 150+ exchanges | apiKey | Yes | Yes |
 | [Fed Treasury](https://fiscaldata.treasury.gov/api-documentation/) | 美国财政部数据 | No | Yes | Unknown |
 | [Filingrail](https://rapidapi.com/hudson-enterprises-llc-hudson-enterprises-llc-default/api/filingrail) | SEC EDGAR 文件、XBRL 财务数据、表格 4 内幕交易、8-K 事件和 13F 持股 | apiKey | Yes | Unknown |
 | [Finage](https://finage.co.uk) | Finage 是一家股票、货币、加密货币、指数和 ETF 实时和历史数据提供商 | apiKey | Yes | Unknown |
@@ -845,6 +847,7 @@
 | [Indian Mutual Fund](https://www.mfapi.in/) | 获取印度共同基金数据的完整历史 | No | Yes | Unknown |
 | [Intrinio](https://intrinio.com/) | 广泛的金融数据源选择 | apiKey | Yes | Unknown |
 | [Klarna](https://docs.klarna.com/klarna-payments/api/payments-api/) | Klarna 支付和购物服务 | apiKey | Yes | Unknown |
+| [LiquiLens](https://liquilens.in/developers/) | Public-record bank and lender failure-risk evidence | No | Yes | Yes |
 | [MercadoPago](https://www.mercadopago.com.br/developers/es/reference) | Mercado Pago API 参考 - 开发集成所需的所有信息 | apiKey | Yes | Unknown |
 | [Mono](https://mono.co/) | 连接用户的银行账户并访问非洲的交易数据 | apiKey | Yes | Unknown |
 | [Moov](https://docs.moov.io/api/) | Moov API 使平台可以轻松发送、接收和存储资金 | apiKey | Yes | Unknown |
@@ -1761,6 +1764,7 @@
 | [Revolt](https://developers.revolt.chat/api/) | Revolt 开源 Discord 替代方案 | apiKey | Yes | Unknown |
 | [Saidit](https://www.saidit.net/dev/api) | 开源 Reddit 克隆 | OAuth | Yes | Unknown |
 | [Slack](https://api.slack.com/) | 团队即时通讯 | OAuth | Yes | Unknown |
+| [SocialCrawl](https://www.socialcrawl.dev/docs) | Social and commerce data from 50+ platforms in one JSON schema | apiKey | Yes | Yes |
 | [SocialSwarm](https://social-swarm-main-aa77a19.zuplo.site) | 使用不同的钩子将文章变成可立即发布的 X 线程草稿 | apiKey | Yes | No |
 | [TamTam](https://dev.tamtam.chat/) | 用于与 TamTam 交互的 Bot API | apiKey | Yes | Unknown |
 | [Telegram Bot](https://core.telegram.org/bots/api) | 适用于机器人的 MTProto API 的简化 HTTP 版本 | apiKey | Yes | Unknown |
@@ -1783,6 +1787,7 @@
 
 | API | 描述 | 认证 | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
+| [5DollarFootball](https://5dollarfootballapi.com/) | Football fixtures, results, standings and historical odds with corner and card lines | apiKey | Yes | Yes |
 | [API-FOOTBALL](https://www.api-football.com/documentation-v3) | 获取有关足球联赛和杯赛的信息 | apiKey | Yes | Yes |
 | [ApiMedic](https://apimedic.com/) | ApiMedic 主要为患者提供医疗症状检查 API | apiKey | Yes | Unknown |
 | [balldontlie](https://www.balldontlie.io) | Balldontlie 提供对 NBA 统计数据的访问 | No | Yes | Yes |
