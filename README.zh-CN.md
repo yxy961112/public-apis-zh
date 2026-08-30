@@ -4,8 +4,8 @@
 
 > 由 GitHub Actions 定时检测上游更新，自动调用翻译引擎将最新 API 目录翻译为简体中文。
 
-> - 上游最新提交：`988c57b`（2026-08-26T19:19:56Z）
-> - 上次同步：2026-08-26 22:48 UTC
+> - 上游最新提交：`9dfcbca`（2026-08-30T16:27:33Z）
+> - 上次同步：2026-08-30 19:05 UTC
 > - 许可证：沿用上游 MIT
 
 
@@ -281,6 +281,7 @@
 | [Google Analytics](https://developers.google.com/analytics/) | 收集、配置和分析您的数据以吸引合适的受众 | OAuth | Yes | Unknown |
 | [Instatus](https://instatus.com/help/api) | 通过 HTTP REST API 在状态页面上发布和更新维护和事件 | apiKey | Yes | Unknown |
 | [Invovate](https://invovate.com/api) | 从一个 JSON POST 生成 11 种语言的 PDF、JSON 和 UBL 发票 | apiKey | Yes | No |
+| [Katalis UK Company Enrichment](https://meetkatalis.com/apis) | 使用来自 Companies House 数据的 AI 摘要和准确度分数验证英国公司简介 | apiKey | Yes | Unknown |
 | [Legal Sandbox Georgia](https://legal.ge/api/openapi.json) | 通过自然语言查询查找格鲁吉亚经过验证的法律专家 | No | Yes | Yes |
 | [Mailchimp](https://mailchimp.com/developer/) | 发送营销活动和交易邮件 | apiKey | Yes | Unknown |
 | [mailjet](https://www.mailjet.com/) | 可以发送营销电子邮件，并且可以使用 API 发送以 MJML 或 HTML 制作的邮件模板 | apiKey | Yes | Unknown |
@@ -298,6 +299,7 @@
 | [Tenders in Romania](https://tenders.guru/ro/api) | 获取 JSON 格式的罗马尼亚采购数据 | No | Yes | Unknown |
 | [Tenders in Spain](https://tenders.guru/es/api) | 获取 JSON 格式的西班牙采购数据 | No | Yes | Unknown |
 | [Tenders in Ukraine](https://tenders.guru/ua/api) | 获取 JSON 格式的乌克兰采购数据 | No | Yes | Unknown |
+| [TradeDataHub](https://www.tradedatahub.net) | 美国承包商数据集，具有免费的发现 API，用于覆盖范围、定价和屏蔽预览 | No | Yes | Yes |
 | [Tomba email finder](https://tomba.io/api) | 用于 B2B 销售和电子邮件营销的电子邮件查找器以及电子邮件验证器 | apiKey | Yes | Yes |
 | [Trello](https://developers.trello.com/) | 帮助您组织项目并确定项目优先级的看板、列表和卡片 | OAuth | Yes | Unknown |
 | [Village](https://docs.village.ai) | 个人和公司的充实以及通过您的网络的热情介绍路径 | apiKey | Yes | Yes |
@@ -464,7 +466,7 @@
 | [Amdoren](https://www.amdoren.com/currency-api/) | 包含超过 150 种货币的免费货币 API | apiKey | Yes | Unknown |
 | [Bank of Russia](https://www.cbr.ru/development/SXML/) | 汇率和货币换算 | No | Yes | Unknown |
 | [Currency-api](https://github.com/fawazahmed0/currency-api#readme) | 免费货币汇率 API，支持 150 多种货币且无汇率限制 | No | Yes | Yes |
-| [CurrencyBeacon](https://currencybeacon.com/) | Real-time and historical currency exchange rates with free tier | apiKey | Yes | Yes |
+| [CurrencyBeacon](https://currencybeacon.com/) | 免费套餐的实时和历史货币汇率 | apiKey | Yes | Yes |
 | [CurrencyFreaks](https://currencyfreaks.com/) | 通过每月 1K 请求的免费计划提供当前和历史货币汇率 | apiKey | Yes | Yes |
 | [CurrencyScoop](https://currencyscoop.com/api-documentation) | 实时和历史货币汇率 JSON API | apiKey | Yes | Yes |
 | [Czech National Bank](https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml) | 汇率集合 | No | Yes | Unknown |
@@ -510,6 +512,7 @@
 | [ApicAgent](https://www.apicagent.com) | 从用户代理字符串中提取设备详细信息 | No | Yes | Yes |
 | [ApiFlash](https://apiflash.com/) | 为开发者提供基于 Chrome 的屏幕截图 API | apiKey | Yes | Unknown |
 | [APIs.guru](https://apis.guru/api-doc/) | Web API 的 Wikipedia、公共 API 的 OpenAPI/Swagger 规范 | No | Yes | Unknown |
+| [Aquanode](https://docs.aquanode.io/docs/api/marketplace) | 九个云提供商的实时 GPU 租赁价格和可用性 | No | Yes | No |
 | [Azure DevOps](https://docs.microsoft.com/en-us/rest/api/azure/devops) | REST API 请求/响应对的 Azure DevOps 基本组件 | apiKey | Yes | Unknown |
 | [Base](https://www.base-api.io/) | 构建快速后端 | apiKey | Yes | Yes |
 | [Beeceptor](https://beeceptor.com/) | 在几秒钟内构建模拟 Rest API 端点 | No | Yes | Yes |
@@ -627,6 +630,7 @@
 | [scrapestack](https://scrapestack.com/) | 实时、可扩展的代理和网页抓取 REST API | apiKey | Yes | Unknown |
 | [ScrapingAnt](https://scrapingant.com) | 使用简单的 API 进行无头 Chrome 抓取 | apiKey | Yes | Unknown |
 | [ScrapingDog](https://www.scrapingdog.com/) | 用于网页抓取的代理 API | apiKey | Yes | Unknown |
+| [Scrax](https://rapidapi.com/mtaahoperators/api/scrax) | 网络抓取 API 仅对成功抓取进行计费 | apiKey | Yes | Unknown |
 | [Screenshot](https://www.abstractapi.com/website-screenshot-api) | 以编程方式对任何网站的网页进行屏幕截图 | apiKey | Yes | Yes |
 | [ScreenshotAPI.net](https://screenshotapi.net/) | 创建像素完美的网站屏幕截图 | apiKey | Yes | Yes |
 | [Serialif Color](https://color.serialif.com/) | 颜色转换、互补、灰度和对比文本 | No | Yes | No |
@@ -744,7 +748,7 @@
 | [PostStack](https://poststack.dev/docs) | 欧盟托管的电子邮件 API，用于交易和营销电子邮件，包含联系人、广播和分析 | apiKey | Yes | No |
 | [Sendgrid](https://docs.sendgrid.com/api-reference/) | 基于云的 SMTP 提供商，让您无需维护电子邮件服务器即可发送电子邮件 | apiKey | Yes | Unknown |
 | [Sendinblue](https://developers.sendinblue.com/docs) | 提供与营销和/或交易电子邮件和/或 SMS 相关的解决方案的服务 | apiKey | Yes | Unknown |
-| [SMTPfast](https://smtpfa.st/docs) | Send transactional email, manage contacts and broadcasts, free 3,000 emails/month | apiKey | Yes | Yes |
+| [SMTPfast](https://smtpfa.st/docs) | 发送交易电子邮件、管理联系人和广播，每月免费 3,000 封电子邮件 | apiKey | Yes | Yes |
 | [uchecker](https://api.uchecker.net/docs) | 通过完整 SMTP 服务器响应进行批量电子邮件验证 | apiKey | Yes | Unknown |
 | [Verifier](https://verifier.meetchopra.com/docs#/) | 验证给定的电子邮件是否真实 | apiKey | Yes | Yes |
 
@@ -797,6 +801,7 @@
 | [Srp Energy](https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html) | Srp 客户的每小时使用能源报告 | apiKey | Yes | No |
 | [SustainMetrics](https://www.sustainmetrics.net/api) | 来自 DEFRA、EPA、ADEME、Ember 的 18,000 多个温室气体排放因子 | apiKey | Yes | Yes |
 | [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0) | 由国家电网开发的英国官方碳强度 API | No | Yes | Unknown |
+| [WattFigure](https://api.wattfigure.com/) | 美国各州电费，以及电器和电动汽车充电运行成本 | No | Yes | Yes |
 | [Website Carbon](https://api.websitecarbon.com/) | 用于估算加载网页的碳足迹的 API | No | Yes | Unknown |
 
 <a id="events"></a>
@@ -831,7 +836,7 @@
 | [Econdb](https://www.econdb.com/api/) | 全球宏观经济数据 | No | Yes | Yes |
 | [EconPulse](https://econpulse.io) | 实时经济数据 — CPI、PPI、能源、国债利率、BTC 溢价 | apiKey | Yes | Yes |
 | [Edgrapi](https://edgrapi.com) | 将 SEC EDGAR 公司财务、比率、文件和 10-K/10-Q 部分清理为标准化 JSON | apiKey | Yes | Unknown |
-| [EOD Historical Data](https://eodhd.com/) | Real-time and historical stock market data with 150+ exchanges | apiKey | Yes | Yes |
+| [EOD Historical Data](https://eodhd.com/) | 超过 150 个交易所的实时和历史股市数据 | apiKey | Yes | Yes |
 | [Fed Treasury](https://fiscaldata.treasury.gov/api-documentation/) | 美国财政部数据 | No | Yes | Unknown |
 | [Filingrail](https://rapidapi.com/hudson-enterprises-llc-hudson-enterprises-llc-default/api/filingrail) | SEC EDGAR 文件、XBRL 财务数据、表格 4 内幕交易、8-K 事件和 13F 持股 | apiKey | Yes | Unknown |
 | [Finage](https://finage.co.uk) | Finage 是一家股票、货币、加密货币、指数和 ETF 实时和历史数据提供商 | apiKey | Yes | Unknown |
@@ -856,6 +861,7 @@
 | [NORTH7 Agent](https://north7.ai/v1/docs) | 交易信号、市场分析和地缘政治情报 | apiKey | Yes | Yes |
 | [Nordigen](https://nordigen.com/en/account_information_documenation/integration/quickstart_guide/) | 使用官方银行 API 连接到银行账户并获取原始交易数据 | apiKey | Yes | Unknown |
 | [OpenFIGI](https://www.openfigi.com/api) | Bloomberg LP 的股票、指数、期货、期权符号系统 | apiKey | Yes | Yes |
+| [PIT Financial State](https://agent-economy-pit-evaluation.onrender.com/docs) | 20 家美国发行人的季度收入 | apiKey | Yes | Unknown |
 | [Plaid](https://www.plaid.com/docs) | 连接用户的银行账户并访问交易数据 | apiKey | Yes | Unknown |
 | [Polygon](https://polygon.io/) | 历史股市数据 | apiKey | Yes | Unknown |
 | [Portfolio Optimizer](https://portfoliooptimizer.io/) | 投资组合分析和优化 | No | Yes | Yes |
@@ -868,7 +874,7 @@
 | [Styvio](https://www.Styvio.com) | 实时和历史股票数据以及当前股票情绪 | apiKey | Yes | Unknown |
 | [Sugra](https://sugra.ai) | 一种用于市场数据、经济、大宗商品、气候和全球新闻的 API。 LLM 就绪 JSON | apiKey | Yes | Yes |
 | [Tax Data](https://apilayer.com/marketplace/tax_data-api) | 全球即时增值税号和税务验证 | apiKey | Yes | Unknown |
-| [TickerLayer](https://tickerlayer.com) | Real-time and historical market data for stocks, forex, crypto and more | apiKey | Yes | Unknown |
+| [TickerLayer](https://tickerlayer.com) | 股票、外汇、加密货币等的实时和历史市场数据 | apiKey | Yes | Unknown |
 | [Top 5 Stocks](https://top5stocks.netlify.app/developers) | 每日人工智能排名的股票和加密货币观察列表 | No | Yes | Unknown |
 | [Tradier](https://developer.tradier.com) | 美国股票/期权市场数据（延迟、盘中、历史） | OAuth | Yes | Yes |
 | [Twelve Data](https://twelvedata.com/) | 股市数据（实时和历史） | apiKey | Yes | Unknown |
@@ -942,6 +948,7 @@
 | [Digimon TCG](https://documenter.getpostman.com/view/14059948/TzecB4fH) | 在 digimoncard.io 中搜索数码宝贝卡 | No | Yes | Unknown |
 | [Disney](https://disneyapi.dev) | 迪士尼人物信息 | No | Yes | Yes |
 | [Dota 2](https://docs.opendota.com/) | 提供有关 Dota 2 玩家统计数据、比赛统计数据、排名的信息 | apiKey | Yes | Unknown |
+| [DotaSense Timings](https://dotasense.com/cheat-sheet#timing-api) | 以 JSON 和 CSV 格式审查 Dota 2 目标计时 | No | Yes | Yes |
 | [Dungeons and Dragons](https://www.dnd5eapi.co/docs/) | 第五版法术、职业、怪物等的参考 | No | No | No |
 | [Dungeons and Dragons (Alternate)](https://open5e.com/) | 包括 SRD（系统参考文档）中的所有怪物和法术以及搜索 API | No | Yes | Yes |
 | [Eve Online](https://esi.evetech.net/ui) | 第三方开发者文档 | OAuth | Yes | Unknown |
@@ -1461,6 +1468,7 @@
 | [OpenSanctions](https://www.opensanctions.org/docs/api/) | 有关国际制裁、犯罪和政治公众人物的数据 | No | Yes | Yes |
 | [Pan Africa Data](https://panafricadata.com) | 所有 54 个非洲国家的宏观经济和地方收入分配数据 | apiKey | Yes | Unknown |
 | [PeakMetrics](https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news) | 新闻文章和公共数据集 | apiKey | Yes | Unknown |
+| [PublicDataHub](https://publicdatahub.org/api) | 美国公立学校、医院和联邦机构预算，采用 JSON/CSV 格式，并附出处 | No | Yes | Yes |
 | [Recreation Information Database](https://ridb.recreation.gov/) | 休闲区、联邦土地、历史古迹、博物馆和其他景点/资源（美国） | apiKey | Yes | Unknown |
 | [Registrum](https://api.registrum.co.uk/docs) | 英国公司数据：简介、董事、PSC、iXBRL 解析的财务数据、ECCTA 状态 | apiKey | Yes | No |
 | [Scoop.it](http://www.scoop.it/dev) | 内容管理服务 | apiKey | No | Unknown |
@@ -1768,7 +1776,7 @@
 | [Revolt](https://developers.revolt.chat/api/) | Revolt 开源 Discord 替代方案 | apiKey | Yes | Unknown |
 | [Saidit](https://www.saidit.net/dev/api) | 开源 Reddit 克隆 | OAuth | Yes | Unknown |
 | [Slack](https://api.slack.com/) | 团队即时通讯 | OAuth | Yes | Unknown |
-| [SocialCrawl](https://www.socialcrawl.dev/docs) | Social and commerce data from 50+ platforms in one JSON schema | apiKey | Yes | Yes |
+| [SocialCrawl](https://www.socialcrawl.dev/docs) | 来自 50 多个平台的社交和商业数据采用一种 JSON 模式 | apiKey | Yes | Yes |
 | [SocialSwarm](https://social-swarm-main-aa77a19.zuplo.site) | 使用不同的钩子将文章变成可立即发布的 X 线程草稿 | apiKey | Yes | No |
 | [TamTam](https://dev.tamtam.chat/) | 用于与 TamTam 交互的 Bot API | apiKey | Yes | Unknown |
 | [Telegram Bot](https://core.telegram.org/bots/api) | 适用于机器人的 MTProto API 的简化 HTTP 版本 | apiKey | Yes | Unknown |
@@ -1791,7 +1799,7 @@
 
 | API | 描述 | 认证 | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
-| [5DollarFootball](https://5dollarfootballapi.com/) | Football fixtures, results, standings and historical odds with corner and card lines | apiKey | Yes | Yes |
+| [5DollarFootball](https://5dollarfootballapi.com/) | 足球赛程、结果、排名和历史赔率以及角球和牌线 | apiKey | Yes | Yes |
 | [API-FOOTBALL](https://www.api-football.com/documentation-v3) | 获取有关足球联赛和杯赛的信息 | apiKey | Yes | Yes |
 | [ApiMedic](https://apimedic.com/) | ApiMedic 主要为患者提供医疗症状检查 API | apiKey | Yes | Unknown |
 | [balldontlie](https://www.balldontlie.io) | Balldontlie 提供对 NBA 统计数据的访问 | No | Yes | Yes |
@@ -1852,6 +1860,7 @@
 | [FakeJSON](https://fakejson.com) | 生成测试数据和虚假数据的服务 | apiKey | Yes | Yes |
 | [FakerAPI](https://fakerapi.it/en) | 收集API以获取虚假数据 | No | Yes | Yes |
 | [FakeStoreAPI](https://fakestoreapi.com/) | 适用于您的电子商务或购物网站原型的假商店休息 API | No | Yes | Unknown |
+| [flaky](https://flakyapi.dev) | 具有混乱控制的虚假 REST API：强制任何状态代码、增加延迟或故障率 | No | Yes | Yes |
 | [GeneradorDNI](https://api.generadordni.es) | 数据生成器 API。个人资料、车辆、银行和卡等 | apiKey | Yes | Unknown |
 | [ItsThisForThat](https://itsthisforthat.com/api.php) | 产生随机的创业想法 | No | Yes | No |
 | [JSONPlaceholder](http://jsonplaceholder.typicode.com/) | 用于测试和原型设计的虚假数据 | No | No | Unknown |
@@ -2001,6 +2010,7 @@
 | [Tripadvisor](https://developer-tripadvisor.com/home/) | 对酒店、餐厅、景点或目的地的内容进行评级 | apiKey | Yes | Unknown |
 | [Uber](https://developer.uber.com/products) | 优步乘车请求和价格估算 | OAuth | Yes | Yes |
 | [Velib metropolis, Paris, France](https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole) | Velib 开放数据 API | No | Yes | No |
+| [Wander Atlas](https://wanderatlasguides.com/api/) | 每小时安静和繁忙的人群窗口为 20 个国家 620 多个旅游景点提供服务 | No | Yes | Yes |
 
 <a id="url-shorteners"></a>
 
@@ -2068,7 +2078,7 @@
 | [IMDb-API](https://imdb-api.com/) | 用于接收电影、连续剧和演员表信息的 API | apiKey | Yes | Unknown |
 | [IMDbOT](https://github.com/SpEcHiDe/IMDbOT) | 非官方 IMDb 电影/系列信息 | No | Yes | Yes |
 | [JSON2Video](https://json2video.com) | 以编程方式创建和编辑视频：水印、调整大小、幻灯片、画外音、文本动画 | apiKey | Yes | No |
-| [KinoPipe](https://kinopipe.com/docs) | Typed hosted video editing operations for agents and automation | apiKey | Yes | No |
+| [KinoPipe](https://kinopipe.com/docs) | 用于代理和自动化的类型化托管视频编辑操作 | apiKey | Yes | No |
 | [Lucifer Quotes](https://github.com/shadowoff09/lucifer-quotes) | 返回路西法的报价 | No | Yes | Unknown |
 | [MCU Countdown](https://github.com/DiljotSG/MCU-Countdown) | 下一部漫威电影宇宙电影倒计时 | No | Yes | Yes |
 | [Motivational Quotes](https://nodejs-quoteapp.herokuapp.com/) | 随机励志名言 | No | Yes | Unknown |
@@ -2127,7 +2137,7 @@
 | [ODWeather](http://api.oceandrivers.com/static/docs.html) | 天气和天气网络摄像头 | No | No | Unknown |
 | [Oikolab](https://docs.oikolab.com) | 来自 NOAA 和 ECMWF 的 70 多年全球每小时历史和预报天气数据 | apiKey | Yes | Yes |
 | [Open-Meteo](https://open-meteo.com/) | 非商业用途的全球天气预报 API | No | Yes | Yes |
-| [Open-Meteo Ensemble](https://open-meteo.com/en/docs/ensemble-api) | Weather ensemble forecasts from multiple models | No | Yes | Yes |
+| [Open-Meteo Ensemble](https://open-meteo.com/en/docs/ensemble-api) | 来自多个模型的天气集合预报 | No | Yes | Yes |
 | [openSenseMap](https://api.opensensemap.org/) | 来自称为 senseBoxes 的个人气象站的数据 | No | Yes | Yes |
 | [OpenUV](https://www.openuv.io) | 实时紫外线指数预测 | apiKey | Yes | Unknown |
 | [OpenWeatherMap](https://openweathermap.org/api) | 天气 | apiKey | Yes | Unknown |
