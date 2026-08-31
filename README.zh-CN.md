@@ -4,8 +4,8 @@
 
 > 由 GitHub Actions 定时检测上游更新，自动调用翻译引擎将最新 API 目录翻译为简体中文。
 
-> - 上游最新提交：`9dfcbca`（2026-08-30T16:27:33Z）
-> - 上次同步：2026-08-30 19:05 UTC
+> - 上游最新提交：`1d093a9`（2026-08-31T20:26:11Z）
+> - 上次同步：2026-08-31 21:44 UTC
 > - 许可证：沿用上游 MIT
 
 
@@ -543,6 +543,7 @@
 | [DownStatus](https://isitdownstatus.com) | GitHub、AWS、Discord 和 90 多个服务的实时状态 | No | Yes | Yes |
 | [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html) | 一个简单的 JSON 存储 API | No | Yes | Yes |
 | [GeekFlare](https://apidocs.geekflare.com/docs/geekflare-api) | 为网站的重要测试和监控方法提供众多功能 | apiKey | Yes | Unknown |
+| [GcrawlAI](https://gcrawlai.com) | 网页抓取、SERP API、屏幕截图、Markdown 的 URL 和预构建的提取器 | apiKey | Yes | Yes |
 | [Genderize.io](https://genderize.io) | 从名字估计性别 | No | Yes | Yes |
 | [GETPing](https://www.getping.info) | 通过简单的 GET 请求触发电子邮件通知 | apiKey | Yes | Unknown |
 | [Ghost](https://ghost.org/) | 将发布的内容获取到您的网站、应用程序或其他嵌入式媒体中 | apiKey | Yes | Yes |
@@ -1024,6 +1025,7 @@
 | [Warface (non-official)](https://api.wfstats.cf) | 官方API代理，具有更好的数据结构和更多功能 | No | Yes | No |
 | [Wargaming.net](https://developers.wargaming.net/) | Wargaming.net 信息和统计数据 | apiKey | Yes | No |
 | [When is next MCU film](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md) | 即将上映的 MCU 电影信息 | No | Yes | Unknown |
+| [Worth the Rip](https://worththerip.com/api/) | 密封交易卡产品价格和 10 个 TCG 的预期价值，每 2 小时刷新一次 | No | Yes | Yes |
 | [xkcd](https://xkcd.com/json.html) | 以 JSON 形式检索 xkcd 漫画 | No | Yes | No |
 | [Yu-Gi-Oh!](https://db.ygoprodeck.com/api-guide/) | 游戏王哦！ TCG资讯 | No | Yes | Unknown |
 
@@ -1467,6 +1469,7 @@
 | [OpenCorporates](http://api.opencorporates.com/documentation/API-Reference) | 许多国家的公司实体和董事的数据 | apiKey | Yes | Unknown |
 | [OpenSanctions](https://www.opensanctions.org/docs/api/) | 有关国际制裁、犯罪和政治公众人物的数据 | No | Yes | Yes |
 | [Pan Africa Data](https://panafricadata.com) | 所有 54 个非洲国家的宏观经济和地方收入分配数据 | apiKey | Yes | Unknown |
+| [PayCrunch](https://paycrunch.co/api.html) | 美国 1,008 种职业的工资（按州），来自 BLS OEWS 2025 年 5 月，静态 JSON，CC BY 4.0 | No | Yes | Yes |
 | [PeakMetrics](https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news) | 新闻文章和公共数据集 | apiKey | Yes | Unknown |
 | [PublicDataHub](https://publicdatahub.org/api) | 美国公立学校、医院和联邦机构预算，采用 JSON/CSV 格式，并附出处 | No | Yes | Yes |
 | [Recreation Information Database](https://ridb.recreation.gov/) | 休闲区、联邦土地、历史古迹、博物馆和其他景点/资源（美国） | apiKey | Yes | Unknown |
