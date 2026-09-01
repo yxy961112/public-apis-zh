@@ -4,8 +4,8 @@
 
 > 由 GitHub Actions 定时检测上游更新，自动调用翻译引擎将最新 API 目录翻译为简体中文。
 
-> - 上游最新提交：`1d093a9`（2026-08-31T20:26:11Z）
-> - 上次同步：2026-08-31 21:44 UTC
+> - 上游最新提交：`38527bc`（2026-09-01T21:13:02Z）
+> - 上次同步：2026-09-01 23:04 UTC
 > - 许可证：沿用上游 MIT
 
 
@@ -637,6 +637,7 @@
 | [Serialif Color](https://color.serialif.com/) | 颜色转换、互补、灰度和对比文本 | No | Yes | No |
 | [serpstack](https://serpstack.com/) | 实时准确的 Google 搜索结果 API | apiKey | Yes | Yes |
 | [Sheetsu](https://sheetsu.com/) | 轻松集成谷歌表格 | apiKey | Yes | Unknown |
+| [Shotanvil](https://shotanvil.com) | Screenshot, PDF and HTML rendering API with a free tier, API key or x402 auth | apiKey | Yes | No |
 | [SHOUTCLOUD](http://shoutcloud.io/) | 全大写即服务 | No | No | Unknown |
 | [SiteIntel](https://siteintel.duckdns.org) | 从任何 URL 提取元数据、技术堆栈、电子邮件和屏幕截图 | apiKey | Yes | Unknown |
 | [Sonar](https://github.com/Cgboal/SonarSearch) | 项目声纳 DNS 枚举 API | No | Yes | Yes |
@@ -2155,6 +2156,7 @@
 | [weather-api](https://github.com/robertoduessmann/weather-api) | 用于检查天气的 RESTful 免费 API | No | Yes | No |
 | [WeatherAPI](https://www.weatherapi.com/) | 天气 API 以及天文学和地理定位 API 等其他内容 | apiKey | Yes | Yes |
 | [Weatherbit](https://www.weatherbit.io/api) | 天气 | apiKey | Yes | Unknown |
+| [WeatherTotals](https://weathertotals.com/api) | Measured US snow, rain, hail and aurora totals by state and city | No | Yes | Yes |
 | [World Time & Weather](https://worldtimeweather.com/api.html) | 400 个城市的当前天气、当地时间、UTC 偏移量和 DST 规则（静态 JSON） | No | Yes | Yes |
 | [wttr.in](https://wttr.in/:help) | 终端中的天气，支持 JSON 输出 | No | Yes | Yes |
 | [Yandex.Weather](https://yandex.com/dev/weather/) | 评估特定地点的天气状况 | apiKey | Yes | No |
