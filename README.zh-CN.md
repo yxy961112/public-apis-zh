@@ -4,8 +4,8 @@
 
 > 由 GitHub Actions 定时检测上游更新，自动调用翻译引擎将最新 API 目录翻译为简体中文。
 
-> - 上游最新提交：`38527bc`（2026-09-01T21:13:02Z）
-> - 上次同步：2026-09-01 23:04 UTC
+> - 上游最新提交：`9d04268`（2026-09-02T02:23:53Z）
+> - 上次同步：2026-09-02 03:19 UTC
 > - 许可证：沿用上游 MIT
 
 
@@ -418,6 +418,7 @@
 | [CryptoCompare](https://www.cryptocompare.com/api#) | 加密货币比较 | No | Yes | Unknown |
 | [CryptoMarket](https://api.exchange.cryptomkt.com/) | 加密货币交易平台 | apiKey | Yes | Yes |
 | [Cryptonator](https://www.cryptonator.com/api/) | 加密货币汇率 | No | Yes | Unknown |
+| [DefiLlama](https://defillama.com/docs/api) | 公开透明的 DeFi 数据、TVL、币价、交易量和收益率 | No | Yes | Yes |
 | [dYdX](https://docs.dydx.exchange/) | 去中心化加密货币交易所 | apiKey | Yes | Unknown |
 | [Ethplorer](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API) | 以太坊代币、余额、地址、交易历史、合约和自定义结构 | apiKey | Yes | Unknown |
 | [EXMO](https://documenter.getpostman.com/view/10287440/SzYXWKPi) | 总部位于英国的加密货币交易所 | apiKey | Yes | Unknown |
@@ -464,6 +465,7 @@
 | [Fixer](https://fixer.io?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) | 汇率和货币换算 | apiKey | No | Unknown |
 | [1Forge](https://1forge.com/forex-data-api/api-documentation) | 外汇货币市场数据 | apiKey | Yes | Unknown |
 | [Amdoren](https://www.amdoren.com/currency-api/) | 包含超过 150 种货币的免费货币 API | apiKey | Yes | Unknown |
+| [api-mint](https://api-mint.hoiwan.workers.dev) | 免费实用 API：时区、外汇汇率、加密货币价格、页面元数据 | No | Yes | Yes |
 | [Bank of Russia](https://www.cbr.ru/development/SXML/) | 汇率和货币换算 | No | Yes | Unknown |
 | [Currency-api](https://github.com/fawazahmed0/currency-api#readme) | 免费货币汇率 API，支持 150 多种货币且无汇率限制 | No | Yes | Yes |
 | [CurrencyBeacon](https://currencybeacon.com/) | 免费套餐的实时和历史货币汇率 | apiKey | Yes | Yes |
@@ -533,6 +535,7 @@
 | [Contentful Images](https://www.contentful.com/developers/docs/references/images-api/) | 用于检索图像并将变换应用于图像 | apiKey | Yes | Yes |
 | [CORS Proxy](https://github.com/burhanuday/cors-proxy) | 使用此代理作为中间人来解决可怕的 CORS 错误 | No | Yes | Yes |
 | [CountAPI](https://countapi.xyz) | 免费且简单的计数服务。您可以使用它来跟踪页面点击和特定事件 | No | Yes | Yes |
+| [Crawl Readiness](https://crawlreadiness.com) | 检查AI爬虫（ChatGPT、Claude、Perplexity、其他30多个）是否可以访问任何网站 | apiKey | Yes | Yes |
 | [Databricks](https://docs.databricks.com/dev-tools/api/latest/index.html) | 管理您的 databricks 帐户、集群、笔记本、作业和工作区的服务 | apiKey | Yes | Yes |
 | [Diagrams.so](https://diagrams.so/developers) | 从文本或基础设施代码生成可编辑的draw.io架构图 | apiKey | Yes | No |
 | [DigitalOcean Status](https://status.digitalocean.com/api) | 所有 DigitalOcean 服务的状态 | No | Yes | Unknown |
@@ -585,6 +588,7 @@
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com) | 用于测试和原型设计的虚假 REST API | No | Yes | Yes |
 | [Keyvalue](https://keyvalue.immanuel.co/) | 用于快速原型设计的简单键值存储 REST API | No | Yes | Unknown |
 | [Kroki](https://kroki.io) | 根据文本描述创建图表 | No | Yes | Yes |
+| [Labelixa](https://labelixa.com/docs/api) | 渲染、验证 Zebra ZPL 标签条形码并生成 PNG/PDF 格式 | apiKey | Yes | Yes |
 | [License-API](https://github.com/cmccandless/license-api/blob/master/README.md) | Choosealicense.com 的非官方 REST API | No | Yes | No |
 | [Logs.to](https://logs.to/) | 生成日志 | apiKey | Yes | Unknown |
 | [Lua Decompiler](https://lua-decompiler.ferib.dev/) | 在线Lua 5.1反编译器 | No | Yes | Yes |
@@ -618,6 +622,7 @@
 | [QR code](https://www.qrtag.net/api/) | 创建易于阅读的 QR 码和 URL 缩短器 | No | Yes | Yes |
 | [QR code](http://goqr.me/api/) | 生成并解码/读取二维码图形 | No | Yes | Unknown |
 | [QR Code Crafter](https://qrcodecrafter.com/qr-code-api) | 生成 SVG、PNG、JPG、WebP、PDF 或 EPS 格式的静态 QR 码 | No | Yes | Yes |
+| [QR Codes](https://qr-api.62-238-102-93.sslip.io/docs) | 通过单个 GET 请求生成带有徽标嵌入和自定义颜色的二维码 | apiKey | Yes | No |
 | [Qrcode Monkey](https://www.qrcode-monkey.com/qr-code-api-with-logo/) | 将自定义且外观独特的 QR 码集成到您的系统或工作流程中 | No | Yes | Unknown |
 | [QuickChart](https://quickchart.io/) | 生成图表和图形图像 | No | Yes | Yes |
 | [Random Stuff](https://api-docs.pgamerx.com/) | 可用于以闪电般的速度获取 AI Response、笑话、模因等 | apiKey | Yes | Yes |
@@ -637,7 +642,7 @@
 | [Serialif Color](https://color.serialif.com/) | 颜色转换、互补、灰度和对比文本 | No | Yes | No |
 | [serpstack](https://serpstack.com/) | 实时准确的 Google 搜索结果 API | apiKey | Yes | Yes |
 | [Sheetsu](https://sheetsu.com/) | 轻松集成谷歌表格 | apiKey | Yes | Unknown |
-| [Shotanvil](https://shotanvil.com) | Screenshot, PDF and HTML rendering API with a free tier, API key or x402 auth | apiKey | Yes | No |
+| [Shotanvil](https://shotanvil.com) | 带有免费套餐、API 密钥或 x402 身份验证的屏幕截图、PDF 和 HTML 渲染 API | apiKey | Yes | No |
 | [SHOUTCLOUD](http://shoutcloud.io/) | 全大写即服务 | No | No | Unknown |
 | [SiteIntel](https://siteintel.duckdns.org) | 从任何 URL 提取元数据、技术堆栈、电子邮件和屏幕截图 | apiKey | Yes | Unknown |
 | [Sonar](https://github.com/Cgboal/SonarSearch) | 项目声纳 DNS 枚举 API | No | Yes | Yes |
@@ -796,6 +801,7 @@
 | [Luchtmeetnet](https://api-docs.luchtmeetnet.nl/) | 荷兰的预测和实际空气质量成分（RIVM） | No | Yes | Unknown |
 | [National Grid ESO](https://data.nationalgrideso.com/) | 英国电力系统运营商的开放数据 | No | Yes | Unknown |
 | [OpenAQ](https://docs.openaq.org/) | 露天空气质量数据 | apiKey | Yes | Unknown |
+| [Open-Meteo](https://open-meteo.com/) | 供非商业用途的免费天气 API | No | Yes | Yes |
 | [PM2.5 Open Data Portal](https://pm25.lass-net.org/#apis) | 开放低成本PM2.5传感器数据 | No | Yes | Unknown |
 | [PM25.in](http://www.pm25.in/api_doc) | 中国空气质量 | apiKey | No | Unknown |
 | [PVWatts](https://developer.nrel.gov/docs/solar/pvwatts/v6/) | 能源生产光伏 (PV) 能源系统 | apiKey | Yes | Unknown |
@@ -846,10 +852,13 @@
 | [Finnhub](https://finnhub.io/docs/api) | 适用于股票、货币和加密货币的实时 RESTful API 和 Websocket | apiKey | Yes | Unknown |
 | [FRED](https://fred.stlouisfed.org/docs/api/fred/) | 圣路易斯联邦储备银行的经济数据 | apiKey | Yes | Yes |
 | [Front Accounting APIs](https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule) | Front Accounting 是一款适用于小型企业的多语言和多货币软件 | OAuth | Yes | Yes |
+| [FXNewsBias](https://fxnewsbias.com/developers) | AI 评分的 8 种主要外汇货币新闻情绪，每 3 小时刷新一次 | apiKey | Yes | Yes |
 | [Goldprice.dev](https://goldprice.dev/docs) | 交叉验证的黄金、白银和铜现货、期货以及 13 种货币的 30 年历史 | No | Yes | Unknown |
 | [Halal Terminal](https://api.halalterminal.com/docs) | 通过 5 种方法、天课和净化进行符合伊斯兰教义的股票和 ETF 筛选 | apiKey | Yes | Yes |
+| [Helious](https://helious.io/developers/) | 美国国债拍卖结果与尾部和竞标者分裂，加上经济数据公布 | No | Yes | Yes |
 | [Helium](https://heliumtrades.com/mcp-page/) | 带有媒体偏见评分的新闻、平衡的新闻合成、实时市场数据、人工智能期权定价 | No | Yes | Yes |
 | [Hotstoks](https://hotstoks.com?utm_source=public-apis) | 由 SQL 提供支持的股市数据 | apiKey | Yes | Yes |
+| [IBAN Analyzer](https://iban-analyzer.com/free-iban-api) | 将 IBAN 解析为 60 多个国家/地区的银行名称、BIC、城市和地址 | No | Yes | Yes |
 | [IBANforge](https://api.ibanforge.com) | 89 个国家/地区的 IBAN 验证和 BIC/SWIFT 查询，包含 121,000 多个 BIC 条目 | apiKey | Yes | No |
 | [IEX Cloud](https://iexcloud.io/docs/api/) | 实时和历史股票和市场数据 | apiKey | Yes | Yes |
 | [IG](https://labs.ig.com/gettingstarted) | 点差交易和差价合约市场数据 | apiKey | Yes | Unknown |
@@ -1141,6 +1150,7 @@
 | [AI Law Tracker](https://ai-law-tracker.com/developers) | 按司法管辖区（美国、欧盟、全球）划分的人工智能监管法律为只读 JSON；免费套餐 | apiKey | Yes | Unknown |
 | [Bank Negara Malaysia Open Data](https://apikijangportal.bnm.gov.my/) | 马来西亚中央银行开放数据 | No | Yes | Unknown |
 | [BCLaws](https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html) | 查阅不列颠哥伦比亚省的法律 | No | No | Unknown |
+| [Bidledger](https://jaydemks.github.io/bidledger/api.html) | 欧盟的每一次公开招标，均根据官方 TED 数据每日重建 | No | Yes | Yes |
 | [Brazil](https://brasilapi.com.br/) | 社区驱动的巴西公共数据 API | No | Yes | Yes |
 | [Brazil Central Bank Open Data](https://dadosabertos.bcb.gov.br/) | 巴西央行开放数据 | No | Yes | Unknown |
 | [Brazil Receita WS](https://www.receitaws.com.br/) | CNPJ 为巴西公司提供咨询 | No | Yes | Unknown |
@@ -1268,6 +1278,7 @@
 | [Dataflow Kit COVID-19](https://covid-19.dataflowkit.com) | 每小时站点的 COVID-19 实时统计数据 | No | Yes | Unknown |
 | [Edamam](https://developer.edamam.com/) | 具有食谱搜索功能的食品和营养数据 API | apiKey | Yes | Unknown |
 | [ERstat](https://erstat.ca/developers) | 按省份实时显示加拿大急诊室关闭和服务中断情况 | apiKey | Yes | Yes |
+| [FindSaunaPlunge](https://findsaunaplunge.com/api/) | 美国冷泉和桑拿场所，带有日期、来源引用的温度和价格 | No | Yes | Yes |
 | [FoodData Central](https://fdc.nal.usda.gov/) | 国家营养标准参考数据库 | apiKey | Yes | Unknown |
 | [Healthcare.gov](https://www.healthcare.gov/developers/) | 有关美国健康保险市场的教育内容 | No | Yes | Unknown |
 | [Humanitarian Data Exchange](https://data.humdata.org/) | 人道主义数据交换 (HDX) 是跨危机和跨组织共享数据的开放平台 | No | Yes | Unknown |
@@ -1285,6 +1296,7 @@
 | [openFDA](https://open.fda.gov) | FDA 有关药品、设备和食品的公开数据 | apiKey | Yes | Unknown |
 | [Orion Health](https://developer.orionhealth.io/) | 医疗平台，允许开发针对不同医疗场景的应用程序 | OAuth | Yes | Unknown |
 | [Quarantine](https://quarantine.country/coronavirus/api/) | 带有免费 COVID-19 实时更新的冠状病毒 API | No | Yes | Yes |
+| [Urgences Québec](https://sante.handled.tools/api) | 加拿大魁北克省每家医院每小时的急诊室占用率、担架计数和等待时间 | No | Yes | Yes |
 
 <a id="jobs"></a>
 
@@ -1700,6 +1712,7 @@
 | [Mozilla http scanner](https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md) | Mozilla 天文台 http 扫描器 | No | Yes | Unknown |
 | [Mozilla tls scanner](https://github.com/mozilla/tls-observatory#api-endpoints) | Mozilla 天文台 tls 扫描仪 | No | Yes | Unknown |
 | [National Vulnerability Database](https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog) | 美国国家漏洞数据库 | No | Yes | Unknown |
+| [Neetix Liveliness](https://liveliness.neetix.in/api-reference) | 人脸活跃度、呈现攻击检测和 1:1 人脸匹配以进行身份​​验证 | apiKey | Yes | No |
 | [Passwordinator](https://github.com/fawazsullia/password-generator/) | 生成不同复杂度的随机密码 | No | Yes | Yes |
 | [PhishStats](https://phishstats.info/) | 网络钓鱼数据库 | No | Yes | Unknown |
 | [Privacy.com](https://privacy.com/developer/docs) | 生成特定于商家的一次性信用卡号，并链接回您的银行 | apiKey | Yes | Unknown |
@@ -1828,6 +1841,7 @@
 | [Odds-API](https://docs.odds-api.io) | 通过 REST 和 WebSocket 来自超过 265 家博彩公司针对 34 项体育赛事的实时体育博彩赔率 | apiKey | Yes | Yes |
 | [Oddsmagnet](https://data.oddsmagnet.com) | 多家英国博彩公司的赔率历史记录 | No | Yes | Yes |
 | [OpenF1](https://openf1.org/) | 实时和历史一级方程式数据，包括圈数、汽车遥测和位置 | No | Yes | Yes |
+| [OpenFoot API](https://openfootapi.com/docs) | 75 场比赛的足球赛程、结果、积分榜、阵容、现场赛事和射门级别预期进球数 | apiKey | Yes | Yes |
 | [OpenLigaDB](https://www.openligadb.de) | 众包体育联赛结果 | No | Yes | Yes |
 | [Padel Snipe](https://padelsnipe.com/fr/world/api) | 遍布 9 个欧洲国家的 4,000 多个带地图的板球俱乐部，配有 GPS 和球场 | No | Yes | Yes |
 | [PlayerElo](https://playerelo.football/api-access) | 176 个足球联赛的球员级别 Elo 评分、预测和历史记录 | apiKey | Yes | Unknown |
@@ -1943,6 +1957,7 @@
 | [Amadeus for Developers](https://developers.amadeus.com/self-service) | 旅游搜索 - 限制使用 | OAuth | Yes | Unknown |
 | [apilayer aviationstack](https://aviationstack.com/) | 实时航班状态和全球航空数据API | OAuth | Yes | Unknown |
 | [Apimetro](https://apimetro.dev/swagger/index.html) | 墨西哥城公共交通系统的地理空间数据（Metro、Metrobús、Cablebús、RTP 等） | No | Yes | Yes |
+| [Aviation Safety Data](https://himaxym.com/developers) | 来自 128 个官方调查机构的 164,068 份飞机事故叙述以及 FAA 数据 | No | Yes | Yes |
 | [AviationAPI](https://docs.aviationapi.com) | FAA 航空图表和出版物、机场信息和机场天气 | No | Yes | No |
 | [AZ511](https://www.az511.com/developers/doc) | 从 ADOT API 访问流量数据 | apiKey | Yes | Unknown |
 | [Bay Area Rapid Transit](http://api.bart.gov) | BART 的车站和预计抵达时间 | apiKey | No | Unknown |
@@ -1962,6 +1977,7 @@
 | [Impala Hotel Bookings](https://docs.impala.travel/docs/booking-api/) | 酒店内容、价格和客房预订 | apiKey | Yes | No |
 | [Izi](http://api-docs.izi.travel/) | 为旅客提供的语音导览 | apiKey | Yes | Unknown |
 | [Land Transport Authority DataMall, Singapore](https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf) | 新加坡交通信息 | apiKey | No | Unknown |
+| [LiveTrafficCam](https://bzsasson.github.io/traffic-camera-sources/api.html) | 美国交通部实时交通摄像头，具有经过验证的实时状态和测量的正常运行时间 | No | Yes | No |
 | [Metro Lisboa](http://app.metrolisboa.pt/status/getLinhas.php) | 地铁线路延误 | No | No | No |
 | [Navitia](https://doc.navitia.io/) | 用于使用传输数据构建炫酷内容的开放 API | apiKey | Yes | Unknown |
 | [Open Charge Map](https://openchargemap.org/site/develop/api) | 电动汽车充电地点的全球公共登记处 | apiKey | Yes | Yes |
@@ -2156,7 +2172,7 @@
 | [weather-api](https://github.com/robertoduessmann/weather-api) | 用于检查天气的 RESTful 免费 API | No | Yes | No |
 | [WeatherAPI](https://www.weatherapi.com/) | 天气 API 以及天文学和地理定位 API 等其他内容 | apiKey | Yes | Yes |
 | [Weatherbit](https://www.weatherbit.io/api) | 天气 | apiKey | Yes | Unknown |
-| [WeatherTotals](https://weathertotals.com/api) | Measured US snow, rain, hail and aurora totals by state and city | No | Yes | Yes |
+| [WeatherTotals](https://weathertotals.com/api) | 按州和城市测量的美国降雪、降雨、冰雹和极光总数 | No | Yes | Yes |
 | [World Time & Weather](https://worldtimeweather.com/api.html) | 400 个城市的当前天气、当地时间、UTC 偏移量和 DST 规则（静态 JSON） | No | Yes | Yes |
 | [wttr.in](https://wttr.in/:help) | 终端中的天气，支持 JSON 输出 | No | Yes | Yes |
 | [Yandex.Weather](https://yandex.com/dev/weather/) | 评估特定地点的天气状况 | apiKey | Yes | No |
