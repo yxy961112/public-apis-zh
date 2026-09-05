@@ -4,8 +4,8 @@
 
 > 由 GitHub Actions 定时检测上游更新，自动调用翻译引擎将最新 API 目录翻译为简体中文。
 
-> - 上游最新提交：`cc491a8`（2026-09-05T20:06:17Z）
-> - 上次同步：2026-09-05 20:57 UTC
+> - 上游最新提交：`29b7c2b`（2026-09-05T21:46:01Z）
+> - 上次同步：2026-09-05 22:45 UTC
 > - 许可证：沿用上游 MIT
 
 
@@ -535,6 +535,7 @@
 | [Contentful Images](https://www.contentful.com/developers/docs/references/images-api/) | 用于检索图像并将变换应用于图像 | apiKey | Yes | Yes |
 | [CORS Proxy](https://github.com/burhanuday/cors-proxy) | 使用此代理作为中间人来解决可怕的 CORS 错误 | No | Yes | Yes |
 | [CountAPI](https://countapi.xyz) | 免费且简单的计数服务。您可以使用它来跟踪页面点击和特定事件 | No | Yes | Yes |
+| [crates.io](https://crates.io/data-access) | Rust crate versions, downloads and dependency metadata | No | Yes | Yes |
 | [Crawl Readiness](https://crawlreadiness.com) | 检查AI爬虫（ChatGPT、Claude、Perplexity、其他30多个）是否可以访问任何网站 | apiKey | Yes | Yes |
 | [Databricks](https://docs.databricks.com/dev-tools/api/latest/index.html) | 管理您的 databricks 帐户、集群、笔记本、作业和工作区的服务 | apiKey | Yes | Yes |
 | [Diagrams.so](https://diagrams.so/developers) | 从文本或基础设施代码生成可编辑的draw.io架构图 | apiKey | Yes | No |
@@ -611,6 +612,7 @@
 | [Orca Scan](https://orcascan.com/guides/free-barcode-image-api-0e4a4fa6) | 生成 SVG、PNG、JPG 或 PDF 格式的条形码图像（QR、Code 128、EAN、Data Matrix 等） | No | Yes | Yes |
 | [OutageDeck](https://outagedeck.com/developers/api) | 来自官方源的 170 多家云和 SaaS 提供商的实时状态和事件 | No | Yes | Yes |
 | [oyyi](https://oyyi.xyz/docs/1.0) | 用于虚假数据、图像/视频转换、优化、pdf 优化和缩略图生成的 API | No | Yes | Yes |
+| [Packagist](https://packagist.org/apidoc) | PHP Composer package versions and dist metadata | No | Yes | No |
 | [PageCDN](https://pagecdn.com/docs/public-api) | PageCDN 上的 javascript、css 和字体库的公共 API | apiKey | Yes | Yes |
 | [Phone Specs](https://phone-specs-api-production.up.railway.app/docs) | 263 种设备的实时智能手机规格数据库 | No | Yes | Yes |
 | [Postman](https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a) | 用于测试 API 的工具 | apiKey | Yes | Unknown |
@@ -629,6 +631,7 @@
 | [Rejax](https://rejax.io/) | 反向 AJAX 服务通知客户端 | apiKey | Yes | No |
 | [ReqRes](https://reqres.in/) | 托管的 REST-API 准备响应您的 AJAX 请求 | No | Yes | Unknown |
 | [RSS feed to JSON](https://rss-to-json-serverless-api.vercel.app) | 使用 feed URL 返回 JSON 格式的 RSS feed | No | Yes | Yes |
+| [RubyGems](https://guides.rubygems.org/rubygems-org-api/) | Ruby gem metadata, versions, dependencies and search | No | Yes | Yes |
 | [SavePage.io](https://www.savepage.io) | 一个免费的 RESTful API，用于对任何桌面或移动网站进行屏幕截图 | apiKey | Yes | Yes |
 | [ScrapeNinja](https://scrapeninja.net) | 使用 Chrome 指纹和住宅代理抓取 API | apiKey | Yes | Unknown |
 | [ScraperApi](https://www.scraperapi.com) | 轻松构建可扩展的网络抓取工具 | apiKey | Yes | Unknown |
@@ -1649,6 +1652,7 @@
 | [CodeCogs](https://editor.codecogs.com/docs/4-LaTeX_rendering.php) | 以 PNG、GIF、SVG、EMF、PDF、JSON 或带有样式选项的下载格式渲染 LaTeX 方程 | No | Yes | Unknown |
 | [CORE](https://core.ac.uk/services#api) | 获取世界各地的开放获取研究论文 | apiKey | Yes | Unknown |
 | [CycleCalcs](https://www.cyclecalcs.com/api.html) | 天文学解释：太阳和月亮的时间、月相、行星、日食、季节 | No | Yes | Yes |
+| [Europe PMC](https://europepmc.org/RestfulWebService) | Life-science literature search with abstracts, citations and full-text links | No | Yes | Yes |
 | [GBIF](https://www.gbif.org/developer/summary) | 全球生物多样性信息设施 | No | Yes | Yes |
 | [iDigBio](https://github.com/idigbio/idigbio-search-api/wiki) | 访问来自世界各地组织的数百万博物馆标本 | No | Yes | Unknown |
 | [inspirehep.net](https://github.com/inspirehep/rest-api-doc) | 高能物理信息。系统 | No | Yes | Unknown |
@@ -1733,6 +1737,7 @@
 | [Shodan](https://developer.shodan.io/) | 互联网连接设备的搜索引擎 | apiKey | Yes | Unknown |
 | [Spyse](https://spyse-dev.readme.io/reference/quick-start) | 访问所有互联网资产的数据并构建强大的攻击面管理应用程序 | apiKey | Yes | Unknown |
 | [SSL Domain Health Check](https://rapidapi.com/goktugbk/api/ssl-domain-health-check) | SSL 证书有效性、域 WHOIS 状态以及任何域的 DNS 记录检查 | apiKey | Yes | Unknown |
+| [SSL Labs](https://github.com/ssllabs/ssllabs-scan/blob/master/ssllabs-api-docs-v3.md) | Deep SSL/TLS server analysis with A+ to F grading | No | Yes | Unknown |
 | [Threat Jammer](https://threatjammer.com/docs/index) | 根据策划的威胁情报数据提供风险评分服务 | apiKey | Yes | Unknown |
 | [UK Police](https://data.police.uk/docs/) | 英国警方数据 | No | Yes | Unknown |
 | [URLhaus](https://urlhaus.abuse.ch/api/) | 用于恶意软件分发的恶意 URL 数据库 | No | Yes | Unknown |
