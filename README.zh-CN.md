@@ -4,8 +4,8 @@
 
 > 由 GitHub Actions 定时检测上游更新，自动调用翻译引擎将最新 API 目录翻译为简体中文。
 
-> - 上游最新提交：`9d04268`（2026-09-02T02:23:53Z）
-> - 上次同步：2026-09-02 03:19 UTC
+> - 上游最新提交：`cc491a8`（2026-09-05T20:06:17Z）
+> - 上次同步：2026-09-05 20:57 UTC
 > - 许可证：沿用上游 MIT
 
 
@@ -716,6 +716,7 @@
 | [Podio](https://developers.podio.com) | 文件共享和生产力 | OAuth | Yes | Unknown |
 | [PolyDoc](https://polydoc.tech) | HTML/URL 到 PDF 和屏幕截图，以及 Factur-X/ZUGFeRD 电子发票；免费套餐 | apiKey | Yes | Unknown |
 | [PrexView](https://prexview.com) | 将 XML 或 JSON 数据转换为 PDF、HTML 或图像 | apiKey | Yes | Unknown |
+| [PrintSocket](https://www.printsocket.com/docs) | 将 PDF、ZPL 标签和 ESC/POS 收据从任何语言发送到您自己的打印机；免费套餐 | apiKey | Yes | No |
 | [Renderly](https://renderlyapi.com) | 基于 Chromium 构建的 HTML 到 PDF 转换 API | apiKey | Yes | Yes |
 | [Rendex](https://rendex.dev) | 通过提取和模板化，将 HTML、Markdown 或 URL 渲染为 PNG/JPEG/WebP/PDF | apiKey | Yes | Unknown |
 | [Restpack](https://restpack.io/) | 提供屏幕截图、HTML 转 PDF 和内容提取 API | apiKey | Yes | Unknown |
@@ -795,6 +796,7 @@
 | [Cloverly](https://www.cloverly.com/carbon-offset-documentation) | API实时计算常见碳密集型活动的影响 | apiKey | Yes | Unknown |
 | [CO2 Offset](https://co2offset.io/api.html) | API计算并验证碳足迹 | No | Yes | Unknown |
 | [Danish data service Energi](https://www.energidataservice.dk/) | 向社会开放 Energinet 的能源数据 | No | Yes | Unknown |
+| [gridcarbon](https://gridcarbon.dev) | 欧洲、美国和英国 45 个地区的每小时电网碳强度（以 gCO2eq/kWh 为单位） | No | Yes | Yes |
 | [GrünstromIndex](https://gruenstromindex.de/) | 德国绿色电力指数 (Grünstromindex/GSI) | No | No | Yes |
 | [IQAir](https://www.iqair.com/air-pollution-data-api) | 空气质量和天气数据 | apiKey | Yes | Unknown |
 | [kanari](https://kanari.io/en/api) | 实时全球野火检测、水弹跟踪和明火档案 | No | Yes | Yes |
@@ -845,6 +847,7 @@
 | [EconPulse](https://econpulse.io) | 实时经济数据 — CPI、PPI、能源、国债利率、BTC 溢价 | apiKey | Yes | Yes |
 | [Edgrapi](https://edgrapi.com) | 将 SEC EDGAR 公司财务、比率、文件和 10-K/10-Q 部分清理为标准化 JSON | apiKey | Yes | Unknown |
 | [EOD Historical Data](https://eodhd.com/) | 超过 150 个交易所的实时和历史股市数据 | apiKey | Yes | Yes |
+| [FarmDash](https://www.farmdash.one/agents) | DeFi 情报、协议风险、收益模拟以及 84 个 MCP 代理工具、免费 Scout 层 | apiKey | Yes | Yes |
 | [Fed Treasury](https://fiscaldata.treasury.gov/api-documentation/) | 美国财政部数据 | No | Yes | Unknown |
 | [Filingrail](https://rapidapi.com/hudson-enterprises-llc-hudson-enterprises-llc-default/api/filingrail) | SEC EDGAR 文件、XBRL 财务数据、表格 4 内幕交易、8-K 事件和 13F 持股 | apiKey | Yes | Unknown |
 | [Finage](https://finage.co.uk) | Finage 是一家股票、货币、加密货币、指数和 ETF 实时和历史数据提供商 | apiKey | Yes | Unknown |
@@ -852,6 +855,7 @@
 | [Finnhub](https://finnhub.io/docs/api) | 适用于股票、货币和加密货币的实时 RESTful API 和 Websocket | apiKey | Yes | Unknown |
 | [FRED](https://fred.stlouisfed.org/docs/api/fred/) | 圣路易斯联邦储备银行的经济数据 | apiKey | Yes | Yes |
 | [Front Accounting APIs](https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule) | Front Accounting 是一款适用于小型企业的多语言和多货币软件 | OAuth | Yes | Yes |
+| [Futures Clock](https://futuresclock.com/en/data-methodology/#open-data) | 全球 16 个交易所的 65 种期货产品的交易时间和时段窗口 | No | Yes | Yes |
 | [FXNewsBias](https://fxnewsbias.com/developers) | AI 评分的 8 种主要外汇货币新闻情绪，每 3 小时刷新一次 | apiKey | Yes | Yes |
 | [Goldprice.dev](https://goldprice.dev/docs) | 交叉验证的黄金、白银和铜现货、期货以及 13 种货币的 30 年历史 | No | Yes | Unknown |
 | [Halal Terminal](https://api.halalterminal.com/docs) | 通过 5 种方法、天课和净化进行符合伊斯兰教义的股票和 ETF 筛选 | apiKey | Yes | Yes |
@@ -865,6 +869,7 @@
 | [Indian Mutual Fund](https://www.mfapi.in/) | 获取印度共同基金数据的完整历史 | No | Yes | Unknown |
 | [Intrinio](https://intrinio.com/) | 广泛的金融数据源选择 | apiKey | Yes | Unknown |
 | [Klarna](https://docs.klarna.com/klarna-payments/api/payments-api/) | Klarna 支付和购物服务 | apiKey | Yes | Unknown |
+| [KmalServico Gold Price Dataset](https://www.kmalservico.com/data) | 188 个国家/地区 6 种纯度的当前每克黄金价格，JSON，无授权 | No | Yes | No |
 | [LiquiLens](https://liquilens.in/developers/) | 公开记录的银行和贷方失败风险证据 | No | Yes | Yes |
 | [MercadoPago](https://www.mercadopago.com.br/developers/es/reference) | Mercado Pago API 参考 - 开发集成所需的所有信息 | apiKey | Yes | Unknown |
 | [Mono](https://mono.co/) | 连接用户的银行账户并访问非洲的交易数据 | apiKey | Yes | Unknown |
@@ -889,6 +894,7 @@
 | [Top 5 Stocks](https://top5stocks.netlify.app/developers) | 每日人工智能排名的股票和加密货币观察列表 | No | Yes | Unknown |
 | [Tradier](https://developer.tradier.com) | 美国股票/期权市场数据（延迟、盘中、历史） | OAuth | Yes | Yes |
 | [Twelve Data](https://twelvedata.com/) | 股市数据（实时和历史） | apiKey | Yes | Unknown |
+| [US Mortgage Calculator](https://www.usmortgagecalc.com/developers/api) | 抵押贷款支付、摊销、负担能力和 50 个州的财产税数据 | No | Yes | Yes |
 | [VAT Validation](https://www.abstractapi.com/vat-validation-rates-api) | 验证增值税号并计算增值税率 | apiKey | Yes | Yes |
 | [WallstreetBets](https://dashboard.nbshare.io/apps/reddit/api/) | WallstreetBets 股票评论情绪分析 | No | Yes | Unknown |
 | [Yahoo Finance](https://www.yahoofinanceapi.com/) | 用于股票市场、加密货币和货币兑换的实时低延迟雅虎财经 API | apiKey | Yes | Yes |
@@ -1118,6 +1124,7 @@
 | [openrouteservice.org](https://openrouteservice.org/) | 路线、POI、等时线、地理编码（+反向）、海拔等 | apiKey | Yes | Unknown |
 | [OpenStreetMap](http://wiki.openstreetmap.org/wiki/API) | 导航、地理定位和地理数据 | OAuth | No | Unknown |
 | [Pinball Map](https://pinballmap.com/api/v1/docs) | 公共弹球机的众包地图 | No | Yes | Yes |
+| [PontoFato](https://pontofato.com/api/) | 巴西邮政编码 (CEP) 以及 IBGE 坐标、地址和在那里注册的公司 | No | Yes | No |
 | [positionstack](https://positionstack.com/) | 正向和反向批量地理编码 REST API | apiKey | Yes | Unknown |
 | [Postali](https://postali.app/api) | 墨西哥 邮政编码 API | No | Yes | Yes |
 | [PostcodeData.nl](http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json) | 提供基于荷兰地址邮政编码的地理位置数据 | No | No | Unknown |
@@ -1177,6 +1184,7 @@
 | [District of Columbia Open Data](http://opendata.dc.gov/pages/using-apis) | 包含华盛顿特区政府公共数据集，包括犯罪、GIS、金融数据等 | No | Yes | Unknown |
 | [DistrictAPI](https://districtapi.dev/docs) | 美国学区和学校（按地址、招生情况和边界） | apiKey | Yes | Yes |
 | [eCourtsIndia](https://ecourtsindia.com/api) | 印度法院案件状态、判决和听证会时间表 API | apiKey | Yes | Yes |
+| [EditalMD](https://editalmd.com/api/) | 巴西公共采购 (PNCP) 通知以 Markdown 形式，附有截止日期和要求 | No | Yes | Yes |
 | [EPA](https://www.epa.gov/developers/data-data-products#apis) | 来自美国环境保护局的 Web 服务和数据集 | No | Yes | Unknown |
 | [FastDOL](https://www.fastdol.com/docs) | 美国雇主的联邦执法记录：OSHA、WHD、MSHA、EPA、NLRB 等 | apiKey | Yes | Yes |
 | [FBI Wanted](https://www.fbi.gov/wanted/api) | 获取有关 FBI 通缉计划的信息 | No | Yes | Unknown |
@@ -1243,6 +1251,7 @@
 | [OpenMercantil](https://openmercantil.es/api/documentacion) | 西班牙公司公开数据和 BORME 事件时间表 | No | Yes | Yes |
 | [OpenRegistry](https://openregistry.sophymarine.com) | 实时查询 27 个国家的公司注册处（英国、法国、德国、意大利、西班牙、韩国 + 21 个以上） | OAuth | Yes | Unknown |
 | [PRC Exam Schedule](https://api.whenisthenextboardexam.com/docs/) | 菲律宾专业监管委员会非官方考试时间表 | No | Yes | Yes |
+| [Radar CNPJ](https://radar-cnpj.com/api/) | 巴西公司 (CNPJ) 查找和搜索，按区域进行市场检查和监控 | No | Yes | No |
 | [Represent by Open North](https://represent.opennorth.ca/) | 寻找加拿大政府代表 | No | Yes | Unknown |
 | [Tollmint](https://api.tollmint.com) | 美国、欧盟和英国的广告、订阅、人工智能披露和可访问性规则 | No | Yes | Yes |
 | [UK Companies House](https://developer.company-information.service.gov.uk/) | 英国公司保存来自英国政府的数据 | OAuth | Yes | Unknown |
@@ -1358,6 +1367,7 @@
 | [Machinetutors](https://www.machinetutors.com/portfolio/MT_api.html) | AI 解决方案：视频/图像分类和标记、NSFW、图标/图像/音频搜索、NLP | apiKey | Yes | Yes |
 | [MediaCraft AI](https://mediacraft-x402-api.onrender.com) | 中文内容合规审核（17个平台）、EN↔CN翻译、SEO优化。通过 x402 (Solana USDC) 按通话付费。 | apiKey | Yes | Yes |
 | [MessengerX.io](https://messengerx.rtfd.io) | 一个免费的 API，供开发人员构建基于 ML 的个性化聊天应用程序并从中获利 | apiKey | Yes | Yes |
+| [Modelfax](https://bytebrujo.github.io/modelfax/) | LLM 定价、上下文窗口和弃用日期、架构验证和每日更新 | No | Yes | Yes |
 | [NLP Cloud](https://nlpcloud.io) | 使用 spaCy 和转换器进行 NER、情感、分类、摘要等的 NLP API | apiKey | Yes | Unknown |
 | [Not Human Search](https://nothumansearch.ai/openapi.yaml) | AI 工具发现，对 8,600 多个工具和 MCP 服务器进行代理评分 | No | Yes | Yes |
 | [OpenVisionAPI](https://openvisionapi.com) | 基于开源模型的开源计算机视觉API | No | Yes | Yes |
@@ -1449,11 +1459,13 @@
 | API | 描述 | 认证 | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
 | [18F](http://18f.github.io/API-All-the-X/) | 美国联邦政府非官方 API 开发 | No | No | Unknown |
+| [49 Gallery Historical Data](https://api.181649.com/docs) | 标准化历史记录和 25 个每日更新的参考系列 | No | Yes | Yes |
 | [AcreLens](https://www.acrelens.com) | 适用于任何美国房产的土地适宜性评分 API：离网、农村、娱乐、投资 | apiKey | Yes | Unknown |
 | [API Setu](https://www.apisetu.gov.in/) | 印度政府平台，为 KYC、商业、教育和就业提供大量 APIS | No | Yes | Yes |
 | [Archive.org](https://archive.readme.io/docs) | 互联网档案馆 | No | Yes | No |
 | [Black History Facts](https://www.blackhistoryapi.io/docs) | 贡献或搜索网络上最大的黑人历史事实数据库之一 | apiKey | Yes | Yes |
 | [BotsArchive](https://botsarchive.com/docs.html) | 有关数据库中可用的 Telegram Bot 的 JSON 格式详细信息 | No | Yes | Unknown |
+| [BTU Graph](https://btugraph.com/data/) | 经过来源审查的能源公司知识图谱和目录导出 | No | Yes | Yes |
 | [Callook.info](https://callook.info) | 美国业余无线电呼号 | No | Yes | Unknown |
 | [CARTO](https://carto.com/) | 位置信息预测 | apiKey | Yes | Unknown |
 | [CollegeScoreCard.ed.gov](https://collegescorecard.ed.gov/data/) | 美国高等教育机构数据 | No | Yes | Unknown |
@@ -1881,6 +1893,7 @@
 | [flaky](https://flakyapi.dev) | 具有混乱控制的虚假 REST API：强制任何状态代码、增加延迟或故障率 | No | Yes | Yes |
 | [GeneradorDNI](https://api.generadordni.es) | 数据生成器 API。个人资料、车辆、银行和卡等 | apiKey | Yes | Unknown |
 | [ItsThisForThat](https://itsthisforthat.com/api.php) | 产生随机的创业想法 | No | Yes | No |
+| [JsonFabrica](https://jsonfabrica.com/docs/api-reference) | 从可重用模板生成真实的关系型合成 JSON 测试数据 | apiKey | Yes | Unknown |
 | [JSONPlaceholder](http://jsonplaceholder.typicode.com/) | 用于测试和原型设计的虚假数据 | No | No | Unknown |
 | [Loripsum](http://loripsum.net/) | 不烂的“lorem ipsum”生成器 | No | No | Unknown |
 | [Mailsac](https://mailsac.com/docs/api) | 一次性电子邮件 | apiKey | Yes | Unknown |
@@ -2098,6 +2111,7 @@
 | [IMDb-API](https://imdb-api.com/) | 用于接收电影、连续剧和演员表信息的 API | apiKey | Yes | Unknown |
 | [IMDbOT](https://github.com/SpEcHiDe/IMDbOT) | 非官方 IMDb 电影/系列信息 | No | Yes | Yes |
 | [JSON2Video](https://json2video.com) | 以编程方式创建和编辑视频：水印、调整大小、幻灯片、画外音、文本动画 | apiKey | Yes | No |
+| [KPainter](https://api.kpainter.ai/openapi/v1/docs) | 根据提示或源文件创建视频、图像和交互式应用程序输出 | apiKey | Yes | Yes |
 | [KinoPipe](https://kinopipe.com/docs) | 用于代理和自动化的类型化托管视频编辑操作 | apiKey | Yes | No |
 | [Lucifer Quotes](https://github.com/shadowoff09/lucifer-quotes) | 返回路西法的报价 | No | Yes | Unknown |
 | [MCU Countdown](https://github.com/DiljotSG/MCU-Countdown) | 下一部漫威电影宇宙电影倒计时 | No | Yes | Yes |
