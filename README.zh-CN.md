@@ -4,8 +4,8 @@
 
 > 由 GitHub Actions 定时检测上游更新，自动调用翻译引擎将最新 API 目录翻译为简体中文。
 
-> - 上游最新提交：`6939775`（2026-09-08T17:51:42Z）
-> - 上次同步：2026-09-08 18:25 UTC
+> - 上游最新提交：`766854a`（2026-09-08T22:00:45Z）
+> - 上次同步：2026-09-08 23:53 UTC
 > - 许可证：沿用上游 MIT
 
 
@@ -514,6 +514,7 @@
 | [ApicAgent](https://www.apicagent.com) | 从用户代理字符串中提取设备详细信息 | No | Yes | Yes |
 | [ApiFlash](https://apiflash.com/) | 为开发者提供基于 Chrome 的屏幕截图 API | apiKey | Yes | Unknown |
 | [APIs.guru](https://apis.guru/api-doc/) | Web API 的 Wikipedia、公共 API 的 OpenAPI/Swagger 规范 | No | Yes | Unknown |
+| [APIzone](https://apizone.io/api-docs) | 针对 200 多个流行 API 的独立正常运行时间和状态监控 | No | Yes | Yes |
 | [Aquanode](https://docs.aquanode.io/docs/api/marketplace) | 九个云提供商的实时 GPU 租赁价格和可用性 | No | Yes | No |
 | [Azure DevOps](https://docs.microsoft.com/en-us/rest/api/azure/devops) | REST API 请求/响应对的 Azure DevOps 基本组件 | apiKey | Yes | Unknown |
 | [Base](https://www.base-api.io/) | 构建快速后端 | apiKey | Yes | Yes |
@@ -1328,6 +1329,7 @@
 | [GraphQL Jobs](https://graphql.jobs/docs/api/) | 使用 GraphQL 的工作 | No | Yes | Yes |
 | [HeroHunt People Search](https://www.herohunt.ai/people-search-api) | 在 LinkedIn 和 GitHub 上搜索 10 亿人的个人资料以寻找人才 | apiKey | Yes | Yes |
 | [Jobs2Careers](http://api.jobs2careers.com/api/spec.pdf) | 职位聚合器 | apiKey | Yes | Unknown |
+| [Jobven](https://jobven.com/docs/getting-started) | 随着职位的开放和关闭，通过雇主职业页面的网络挂钩跟踪职位发布 | apiKey | Yes | Yes |
 | [Jooble](https://jooble.org/api/about) | 职位搜索引擎 | apiKey | Yes | Unknown |
 | [Juju](http://www.juju.com/publisher/spec/) | 职位搜索引擎 | apiKey | No | Unknown |
 | [JobDataLake](https://www.jobdatalake.com/docs) | 来自 20,000 多家公司的 100 万+条丰富的职位列表，包含薪资、技能、资历 | apiKey | Yes | Yes |
@@ -1531,6 +1533,7 @@
 | [Evil Insult Generator](https://evilinsult.com/api) | 邪恶的侮辱 | No | Yes | Yes |
 | [GitHub Contribution Chart Generator](https://github-contributions.vercel.app) | 创建您的 GitHub 贡献的图像 | No | Yes | Yes |
 | [GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats) | 将动态生成的统计信息添加到您的 GitHub 配置文件自述文件中 | No | Yes | Yes |
+| [Libraries.io](https://libraries.io/api) | 30 多个管理器的开源包的元数据、依赖关系和发布历史记录 | apiKey | Yes | Yes |
 | [Metabase](https://www.metabase.com/) | 用于在公司内部共享数据和分析的开源商业智能服务器 | No | Yes | Yes |
 | [Shields](https://shields.io/) | SVG 和光栅格式的简洁、一致且清晰的徽章 | No | Yes | Unknown |
 
