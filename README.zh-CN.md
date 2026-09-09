@@ -4,8 +4,8 @@
 
 > 由 GitHub Actions 定时检测上游更新，自动调用翻译引擎将最新 API 目录翻译为简体中文。
 
-> - 上游最新提交：`766854a`（2026-09-08T22:00:45Z）
-> - 上次同步：2026-09-08 23:53 UTC
+> - 上游最新提交：`464596a`（2026-09-09T15:18:16Z）
+> - 上次同步：2026-09-09 17:37 UTC
 > - 许可证：沿用上游 MIT
 
 
@@ -79,7 +79,7 @@
 | [Fixer](https://fixer.io/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) | Fixer 是一个简单且轻量级的 API，适用于当前和历史外汇 (forex) 汇率。 | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/10131015-0d9c66b3-5f1a-42ed-a5ca-379217bd629d?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D10131015-0d9c66b3-5f1a-42ed-a5ca-379217bd629d%26entityType%3Dcollection%26workspaceId%3D2b7498b6-6d91-4fa8-817f-608441fe42a8) |
 | [Aviationstack](https://aviationstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) | 免费的实时航班状态和全球航空数据 API | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/10131015-72ee0d35-018e-4370-a2b6-a66d3ebd5b5a?action=collection/fork) |
 | [Zenserp](https://zenserp.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) | 为开发者构建快速、准确的 Google 搜索数据 | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/10131015-a3d63243-081e-4961-a2f0-39c7a9394b8d?action=collection/fork) |
-| [Filestack](https://www.filestack.com/signup-start/) | 强大的 API，可上传、转换任何文件并将其传送到您的应用程序中 | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](www.postman.com/filestack-wolfpack/filestack/overview?sideView=agentMode) |
+| [Filestack](https://www.filestack.com/signup-free//?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) | 强大的 API，可上传、转换任何文件并将其传送到您的应用程序中 | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](www.postman.com/filestack-wolfpack/filestack/overview?sideView=agentMode) |
 | [Screenshotlayer](https://screenshotlayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) | 捕获任何网站的高度可定制的屏幕截图 | [Documentation](https://docs.apilayer.com/screenshotlayer/docs/api-documentation?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) |
 | [Exchangerate Host](https://exchangerate.host/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) | 实时当前和历史外汇和加密货币汇率 | [Documentation](https://docs.apilayer.com/Exchangerate/docs/api-documentation?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) |
 | [Mailboxlayer](https://mailboxlayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) | 面向开发人员的电子邮件验证和验证 JSON API | [Documentation](https://docs.apilayer.com/mailboxlayer/docs/api-documentation?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) |
