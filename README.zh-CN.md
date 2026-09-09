@@ -4,8 +4,8 @@
 
 > 由 GitHub Actions 定时检测上游更新，自动调用翻译引擎将最新 API 目录翻译为简体中文。
 
-> - 上游最新提交：`464596a`（2026-09-09T15:18:16Z）
-> - 上次同步：2026-09-09 17:37 UTC
+> - 上游最新提交：`8d3f99c`（2026-09-09T21:40:11Z）
+> - 上次同步：2026-09-09 23:00 UTC
 > - 许可证：沿用上游 MIT
 
 
@@ -280,6 +280,7 @@
 | [Gmail](https://developers.google.com/gmail/api/) | 灵活、RESTful 访问用户收件箱 | OAuth | Yes | Unknown |
 | [Google Analytics](https://developers.google.com/analytics/) | 收集、配置和分析您的数据以吸引合适的受众 | OAuth | Yes | Unknown |
 | [Instatus](https://instatus.com/help/api) | 通过 HTTP REST API 在状态页面上发布和更新维护和事件 | apiKey | Yes | Unknown |
+| [InvoiceIn](https://invoicein.peculiar.systems/) | 解析并验证收到的电子发票：XRechnung、ZUGFeRD、Peppol、FatturaPA、KSeF | apiKey | Yes | Yes |
 | [Invovate](https://invovate.com/api) | 从一个 JSON POST 生成 11 种语言的 PDF、JSON 和 UBL 发票 | apiKey | Yes | No |
 | [Katalis UK Company Enrichment](https://meetkatalis.com/apis) | 使用来自 Companies House 数据的 AI 摘要和准确度分数验证英国公司简介 | apiKey | Yes | Unknown |
 | [Legal Sandbox Georgia](https://legal.ge/api/openapi.json) | 通过自然语言查询查找格鲁吉亚经过验证的法律专家 | No | Yes | Yes |
@@ -605,6 +606,7 @@
 | [Netlify](https://docs.netlify.com/api/get-started/) | Netlify 是可编程网络的托管服务 | OAuth | Yes | Unknown |
 | [NetworkCalc](https://networkcalc.com/api/docs) | 网络计算器，包括子网、DNS、二进制和安全工具 | No | Yes | Yes |
 | [npm Registry](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md) | 以编程方式查询有关您最喜欢的 Node.js 库的信息 | No | Yes | Unknown |
+| [NuGet](https://learn.microsoft.com/en-us/nuget/api/overview) | .NET 包版本、元数据和搜索 | No | Yes | Yes |
 | [OneSignal](https://documentation.onesignal.com/docs/onesignal-api) | 适用于推送通知、电子邮件、短信和应用内的自助式客户互动解决方案 | apiKey | Yes | Unknown |
 | [Open Page Rank](https://www.domcop.com/openpagerank/) | 使用Page Rank算法计算和比较不同网站指标的API | apiKey | Yes | Unknown |
 | [OpenAPIHub](https://hub.openapihub.com/) | 一体化 API 平台 | X-Mashape-Key | Yes | Unknown |
@@ -615,6 +617,7 @@
 | [oyyi](https://oyyi.xyz/docs/1.0) | 用于虚假数据、图像/视频转换、优化、pdf 优化和缩略图生成的 API | No | Yes | Yes |
 | [Packagist](https://packagist.org/apidoc) | PHP Composer 包版本和 dist 元数据 | No | Yes | No |
 | [PageCDN](https://pagecdn.com/docs/public-api) | PageCDN 上的 javascript、css 和字体库的公共 API | apiKey | Yes | Yes |
+| [Peak](https://peak.fo/docs) | Cloudflare Turnstile 和 5 秒挑战解决，按成功解决付费，1,000 个免费解决 | apiKey | Yes | Yes |
 | [Phone Specs](https://phone-specs-api-production.up.railway.app/docs) | 263 种设备的实时智能手机规格数据库 | No | Yes | Yes |
 | [Postman](https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a) | 用于测试 API 的工具 | apiKey | Yes | Unknown |
 | [ProxyCrawl](https://proxycrawl.com) | 抓取和爬行反验证码服务 | apiKey | Yes | Unknown |
@@ -771,6 +774,7 @@
 | API | 描述 | 认证 | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
 | [Anycrap](https://anycrap.shop/developers) | 超过 35,000 个 AI 生成的荒诞产品概念，包含名称、描述和图像 | apiKey | Yes | Yes |
+| [Bucketlist Dream of the Day](https://bucketlist.nl/samenwerken?lang=en#droom-van-de-dag) | 通过规范链接和图像获取日常旅行和生活体验灵感 | No | Yes | Yes |
 | [chucknorris.io](https://api.chucknorris.io) | 用于手工策划 Chuck Norris 笑话的 JSON API | No | Yes | Unknown |
 | [Corporate Buzz Words](https://github.com/sameerkumar18/corporate-bs-generator-api) | 用于企业流行语的 REST API | No | Yes | Yes |
 | [CosmyDay Astrology](https://cosmyday.com/api-docs) | 根据瑞士星历计算的纳塔尔星图和天空事件 | No | Yes | Yes |
@@ -851,6 +855,7 @@
 | [EconPulse](https://econpulse.io) | 实时经济数据 — CPI、PPI、能源、国债利率、BTC 溢价 | apiKey | Yes | Yes |
 | [Edgrapi](https://edgrapi.com) | 将 SEC EDGAR 公司财务、比率、文件和 10-K/10-Q 部分清理为标准化 JSON | apiKey | Yes | Unknown |
 | [EOD Historical Data](https://eodhd.com/) | 超过 150 个交易所的实时和历史股市数据 | apiKey | Yes | Yes |
+| [EstimateTax](https://estimatetax.net/api/) | 2026年美国联邦、州和地方所得税计算，以及每个数字的来源 | No | Yes | Yes |
 | [FarmDash](https://www.farmdash.one/agents) | DeFi 情报、协议风险、收益模拟以及 84 个 MCP 代理工具、免费 Scout 层 | apiKey | Yes | Yes |
 | [Fed Treasury](https://fiscaldata.treasury.gov/api-documentation/) | 美国财政部数据 | No | Yes | Unknown |
 | [Filingrail](https://rapidapi.com/hudson-enterprises-llc-hudson-enterprises-llc-default/api/filingrail) | SEC EDGAR 文件、XBRL 财务数据、表格 4 内幕交易、8-K 事件和 13F 持股 | apiKey | Yes | Unknown |
@@ -1505,6 +1510,7 @@
 | [Recreation Information Database](https://ridb.recreation.gov/) | 休闲区、联邦土地、历史古迹、博物馆和其他景点/资源（美国） | apiKey | Yes | Unknown |
 | [Registrum](https://api.registrum.co.uk/docs) | 英国公司数据：简介、董事、PSC、iXBRL 解析的财务数据、ECCTA 状态 | apiKey | Yes | No |
 | [Scoop.it](http://www.scoop.it/dev) | 内容管理服务 | apiKey | No | Unknown |
+| [SlashYear](https://slashyear.com/api) | 86,902 个 JSON 格式的历史事件，每个事件都引用自引用的维基百科修订版 | No | Yes | Yes |
 | [Socrata](https://dev.socrata.com/) | 获取来自世界各地政府、非营利组织和非政府组织的开放数据 | OAuth | Yes | Yes |
 | [Statistics of the World](https://statisticsoftheworld.com/api-docs) | 218 个国家的经济数据 — GDP、人口、通货膨胀以及来自国际货币基金组织和世界银行的 440 多个指标 | No | Yes | Yes |
 | [Teleport](https://developers.teleport.org/) | 生活质量数据 | No | Yes | Unknown |
@@ -1679,6 +1685,7 @@
 | [OrbitalWiki](https://orbitalwiki.com/developers) | 合并 CelesTrak、GCAT、Wikidata 的 16,000 多颗卫星目录；包含免费套餐 | apiKey | Yes | Yes |
 | [Purple Air](https://www2.purpleair.com/) | 实时空气质量监测 | No | Yes | Unknown |
 | [Remote Calc](https://github.com/elizabethadegbaju/remotecalc) | 解码base64编码并解析，返回JSON中计算的解 | No | Yes | Yes |
+| [Semantic Scholar](https://api.semanticscholar.org/) | 论文、作者和引文的学术搜索引擎 | No | Yes | Unknown |
 | [SHARE](https://share.osf.io/api/v2/) | 关于研究和学术活动的免费、开放的数据集 | No | Yes | No |
 | [SpaceX](https://github.com/r-spacex/SpaceX-API) | 公司、车辆、发射台和发射数据 | No | Yes | No |
 | [SpaceX](https://api.spacex.land/graphql/) | GraphQL、公司、船舶、启动板和启动数据 | No | Yes | Unknown |
@@ -1806,6 +1813,7 @@
 | [Open Collective](https://docs.opencollective.com/help/developers/api) | 获取开放集体数据 | No | Yes | Unknown |
 | [Pinterest](https://developers.pinterest.com/) | 世界思想目录 | OAuth | Yes | Unknown |
 | [PostLake](https://postlake.dev/docs/) | 一个 API 可在每个主要社交网络上发布、安排和读取分析 | apiKey | Yes | No |
+| [Postproxy](https://postproxy.dev/getting-started/quickstart/) | 发布帖子、评论、私信等 | apiKey | Yes | No |
 | [Product Hunt](https://api.producthunt.com/v2/docs) | 科技领域最佳新产品 | OAuth | Yes | Unknown |
 | [Publora](https://docs.publora.com) | 从一个端点向十个社交网络发布和安排帖子 | apiKey | Yes | No |
 | [Reddit](https://www.reddit.com/dev/api) | 互联网主页 | OAuth | Yes | Unknown |
@@ -1946,6 +1954,7 @@
 | [Semantria](https://semantria.readme.io/docs) | 具有情感分析、分类和命名实体提取的文本分析 | OAuth | Yes | Unknown |
 | [Sentiment Analysis](https://www.meaningcloud.com/developer/sentiment-analysis) | 不同来源文本的多语言情感分析 | apiKey | Yes | Yes |
 | [Tisane](https://tisane.ai/) | 文本分析，重点检测滥用内容和执法应用程序 | OAuth | Yes | Yes |
+| [ToHuman](https://tohuman.io/ai-humanizer-api) | 将人工智能辅助的草稿重写为自然、听起来像您所写的文本 | apiKey | Yes | Unknown |
 | [Watson Natural Language Understanding](https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding) | 用于高级文本分析的自然语言处理 | OAuth | Yes | Unknown |
 
 <a id="tracking"></a>
@@ -2096,6 +2105,7 @@
 | [ProblemsByVin](https://problemsbyvin.com/data/) | 按车辆品牌、型号和年份分类的车主投诉、召回和故障里程统计 | No | Yes | Yes |
 | [RevCarData](https://revcardata.com) | 86,000 多个全球车辆规格和电动汽车指标 | apiKey | Yes | Yes |
 | [Smartcar](https://smartcar.com/docs/) | 锁定和解锁车辆并获取里程表读数和位置等数据。适用于大多数新车 | OAuth | Yes | Yes |
+| [Wheelwise](https://cars.limoja.ai/api/search?q=BMW&limit=1) | 英国二手车列表，包含公平价格等级、36 个月转售预测和每个广告的真实每月成本 | No | Yes | No |
 
 <a id="video"></a>
 
