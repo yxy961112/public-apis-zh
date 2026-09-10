@@ -4,8 +4,8 @@
 
 > 由 GitHub Actions 定时检测上游更新，自动调用翻译引擎将最新 API 目录翻译为简体中文。
 
-> - 上游最新提交：`8d3f99c`（2026-09-09T21:40:11Z）
-> - 上次同步：2026-09-09 23:00 UTC
+> - 上游最新提交：`7ee71f0`（2026-09-10T21:57:17Z）
+> - 上次同步：2026-09-10 23:47 UTC
 > - 许可证：沿用上游 MIT
 
 
@@ -192,6 +192,7 @@
 | [PHP-Noise](https://php-noise.com/) | 噪声背景图像生成器 | No | Yes | Yes |
 | [Pixel Encounter](https://pixelencounter.com/api) | SVG 图标生成器 | No | Yes | No |
 | [Rijksmuseum](https://data.rijksmuseum.nl/object-metadata/api/) | 国家博物馆数据 | apiKey | Yes | Unknown |
+| [Smithsonian Open Access](https://github.com/Smithsonian/smithsonian-openaccess) | Smithsonian collection metadata and open-access digital media | apiKey | Yes | Unknown |
 | [Thisispaper](https://www.thisispaper.com/intelligence/api-docs) | 具有视觉相似性和品味元数据的策划建筑、设计、摄影和艺术项目 | apiKey | Yes | Yes |
 | [UpRes](https://upres.ai/docs/api) | AI 图像升级至 8K，具有 18 个模型（Real-ESRGAN、SeedVR2、AuraSR） | apiKey | Yes | Yes |
 | [Text-till-Kladdesign](https://text-till-klad-design.gracestack.se/api/v1/openapi.json) | AI时装设计生成器——将瑞典语文本转化为服装概念 | apiKey | Yes | Yes |
@@ -1264,6 +1265,7 @@
 | [Represent by Open North](https://represent.opennorth.ca/) | 寻找加拿大政府代表 | No | Yes | Unknown |
 | [Tollmint](https://api.tollmint.com) | 美国、欧盟和英国的广告、订阅、人工智能披露和可访问性规则 | No | Yes | Yes |
 | [UK Companies House](https://developer.company-information.service.gov.uk/) | 英国公司保存来自英国政府的数据 | OAuth | Yes | Unknown |
+| [UK Legislation Changes](https://uk-legal-changes.pages.dev/docs) | 英国法律的时间点修订历史 | No | Yes | Yes |
 | [US Presidential Election Data by TogaTech](https://uselection.togatech.org/api/) | 美国总统选举前两名政党的基本候选人数据和现场选举人票统计 | No | Yes | No |
 | [USA.gov](https://www.usa.gov/developer) | 有关美国节目、活动、服务等的权威信息 | apiKey | Yes | Unknown |
 | [US Federal Contracts & Grants](https://government-data-api.onrender.com/docs) | 美国联邦合同、拨款和机构支出数据每日更新 | No | Yes | Yes |
@@ -1631,6 +1633,7 @@
 | [Readme typing SVG](https://github.com/DenverCoder1/readme-typing-svg) | 可自定义的输入和删除文本 SVG | No | Yes | Unknown |
 | [Remove.bg](https://www.remove.bg/api) | 图像背景去除 | apiKey | Yes | Unknown |
 | [ReSmush.it](https://resmush.it/api) | 照片优化 | No | No | Unknown |
+| [Screenshot Studio](https://www.screenshot-studio.com/docs) | 通过公共 HTTP API 将网页捕获为图像 | No | Yes | No |
 | [shutterstock](https://api-reference.shutterstock.com/) | 图库照片和视频 | OAuth | Yes | Unknown |
 | [Sirv](https://apidocs.sirv.com/) | 图像管理解决方案，例如优化、操作、托管 | apiKey | Yes | Unknown |
 | [Tinify.dev](https://tinify.dev/developers) | 具有使用元数据的图像压缩、调整大小和裁剪 API | apiKey | Yes | No |
@@ -1829,6 +1832,7 @@
 | [Telegraph](https://telegra.ph/api) | 轻松创建有吸引力的博客并进行分享 | apiKey | Yes | Unknown |
 | [TikTok](https://developers.tiktok.com/doc/login-kit-web) | 获取TikTok平台上的用户信息和用户的视频帖子 | OAuth | Yes | Unknown |
 | [Trash Nothing](https://trashnothing.com/developer) | 一个免费回收社区，每天发布数千件免费物品 | OAuth | Yes | Yes |
+| [TrendsMCP](https://www.trendsmcp.ai/docs) | 来自 Google、TikTok、YouTube、Amazon 和 Reddit 的实时关键词趋势数据 | apiKey | Yes | Unknown |
 | [Tumblr](https://www.tumblr.com/docs/en/api/v2) | 读取和写入 Tumblr 数据 | OAuth | Yes | Unknown |
 | [TweetAPI](https://tweetapi.com/docs) | 帖子、个人资料、关注者、搜索、列表和社区的公共 Twitter 数据 | apiKey | Yes | No |
 | [Twitch](https://dev.twitch.tv/docs) | 游戏串流API | OAuth | Yes | Unknown |
