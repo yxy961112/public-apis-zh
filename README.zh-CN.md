@@ -4,8 +4,8 @@
 
 > 由 GitHub Actions 定时检测上游更新，自动调用翻译引擎将最新 API 目录翻译为简体中文。
 
-> - 上游最新提交：`7ee71f0`（2026-09-10T21:57:17Z）
-> - 上次同步：2026-09-10 23:47 UTC
+> - 上游最新提交：`b6909a7`（2026-09-12T20:07:08Z）
+> - 上次同步：2026-09-12 21:22 UTC
 > - 许可证：沿用上游 MIT
 
 
@@ -192,7 +192,7 @@
 | [PHP-Noise](https://php-noise.com/) | 噪声背景图像生成器 | No | Yes | Yes |
 | [Pixel Encounter](https://pixelencounter.com/api) | SVG 图标生成器 | No | Yes | No |
 | [Rijksmuseum](https://data.rijksmuseum.nl/object-metadata/api/) | 国家博物馆数据 | apiKey | Yes | Unknown |
-| [Smithsonian Open Access](https://github.com/Smithsonian/smithsonian-openaccess) | Smithsonian collection metadata and open-access digital media | apiKey | Yes | Unknown |
+| [Smithsonian Open Access](https://github.com/Smithsonian/smithsonian-openaccess) | 史密森尼馆藏元数据和开放获取数字媒体 | apiKey | Yes | Unknown |
 | [Thisispaper](https://www.thisispaper.com/intelligence/api-docs) | 具有视觉相似性和品味元数据的策划建筑、设计、摄影和艺术项目 | apiKey | Yes | Yes |
 | [UpRes](https://upres.ai/docs/api) | AI 图像升级至 8K，具有 18 个模型（Real-ESRGAN、SeedVR2、AuraSR） | apiKey | Yes | Yes |
 | [Text-till-Kladdesign](https://text-till-klad-design.gracestack.se/api/v1/openapi.json) | AI时装设计生成器——将瑞典语文本转化为服装概念 | apiKey | Yes | Yes |
@@ -746,6 +746,7 @@
 | [mailboxlayer](https://mailboxlayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) | 电子邮件地址验证 | apiKey | Yes | Unknown |
 | [AGPC Domain Check](https://guild.tradeuniquecapital.com/api) | 使用分级可共享报告检查域的 SPF、DKIM、DMARC 和 MX | No | Yes | Yes |
 | [Atomic Mail](https://atomic-mail.github.io/atomic-mail-agentic/) | AI 代理的电子邮件：以编程方式创建收件箱并通过 JMAP 发送/接收 | apiKey | Yes | Unknown |
+| [Best Temp Mail](https://best-tempmail.com/api) | 用于自动电子邮件测试的一次性收件箱，具有 OTP 提取功能 | No | Yes | No |
 | [Cloudmersive Validate](https://cloudmersive.com/validate-api) | 验证电子邮件地址、电话号码、增值税号码和域名 | apiKey | Yes | Yes |
 | [Disify](https://www.disify.com/) | 验证并检测一次性和临时电子邮件地址 | No | Yes | Yes |
 | [DropMail](https://dropmail.me/api/#live-demo) | 用于创建和管理临时电子邮件收件箱的 GraphQL API | No | Yes | Unknown |
@@ -1991,6 +1992,7 @@
 | [Amadeus for Developers](https://developers.amadeus.com/self-service) | 旅游搜索 - 限制使用 | OAuth | Yes | Unknown |
 | [apilayer aviationstack](https://aviationstack.com/) | 实时航班状态和全球航空数据API | OAuth | Yes | Unknown |
 | [Apimetro](https://apimetro.dev/swagger/index.html) | 墨西哥城公共交通系统的地理空间数据（Metro、Metrobús、Cablebús、RTP 等） | No | Yes | Yes |
+| [ArcNautical](https://arcnautical.com/developers/) | IMO 对任何船舶进行 OFAC/EU/UN/UK 制裁、所有权不透明和审查等级的筛查 | No | Yes | Yes |
 | [Aviation Safety Data](https://himaxym.com/developers) | 来自 128 个官方调查机构的 164,068 份飞机事故叙述以及 FAA 数据 | No | Yes | Yes |
 | [AviationAPI](https://docs.aviationapi.com) | FAA 航空图表和出版物、机场信息和机场天气 | No | Yes | No |
 | [AZ511](https://www.az511.com/developers/doc) | 从 ADOT API 访问流量数据 | apiKey | Yes | Unknown |
@@ -2065,6 +2067,7 @@
 | [Uber](https://developer.uber.com/products) | 优步乘车请求和价格估算 | OAuth | Yes | Yes |
 | [Velib metropolis, Paris, France](https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole) | Velib 开放数据 API | No | Yes | No |
 | [Wander Atlas](https://wanderatlasguides.com/api/) | 每小时安静和繁忙的人群窗口为 20 个国家 620 多个旅游景点提供服务 | No | Yes | Yes |
+| [Windsock](https://windsock.ai/app/docs) | 飞机估值、FAA 登记查询、拥有成本和航空市场数据 | apiKey | Yes | Unknown |
 
 <a id="url-shorteners"></a>
 
@@ -2187,7 +2190,9 @@
 | [HG Weather](https://hgbrasil.com/status/weather) | 提供巴西城市的天气预报数据 | apiKey | Yes | Yes |
 | [Hong Kong Obervatory](https://www.hko.gov.hk/en/abouthko/opendata_intro.htm) | 提供天气信息、地震信息、气候数据 | No | Yes | Unknown |
 | [IPMA](https://api.ipma.pt/open-data/) | 葡萄牙天气和气候数据 | No | Yes | Unknown |
+| [KNMI](https://developer.dataplatform.knmi.nl/) | 荷兰天气、雷达和气候数据 | apiKey | Yes | Unknown |
 | [Meltema](https://meltema.com/docs) | 多模型天气：GFS、ECMWF AIFS/IFS 和由 31 名成员组成的 GEFS 集合、无密钥点预报 | No | Yes | No |
+| [Météo-France](https://portail-api.meteofrance.fr/) | 法国天气预报和警报 | apiKey | Yes | Unknown |
 | [Meteorologisk Institutt](https://api.met.no/weatherapi/documentation) | 天气和气候数据 | User-Agent | Yes | Unknown |
 | [Micro Weather](https://m3o.com/weather/api) | 实时天气预报和历史数据 | apiKey | Yes | Unknown |
 | [ODWeather](http://api.oceandrivers.com/static/docs.html) | 天气和天气网络摄像头 | No | No | Unknown |
