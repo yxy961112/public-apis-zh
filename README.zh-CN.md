@@ -4,8 +4,8 @@
 
 > 由 GitHub Actions 定时检测上游更新，自动调用翻译引擎将最新 API 目录翻译为简体中文。
 
-> - 上游最新提交：`b7b7063`（2026-09-13T13:25:38Z）
-> - 上次同步：2026-09-13 14:08 UTC
+> - 上游最新提交：`d24fde3`（2026-09-13T15:50:23Z）
+> - 上次同步：2026-09-13 17:58 UTC
 > - 许可证：沿用上游 MIT
 
 
@@ -553,6 +553,7 @@
 | [dotsweep](https://dotsweep.com/docs) | 涵盖 1200 多个顶级域名 (TLD) 的域名可用性以及注册和续订价格 | No | Yes | Yes |
 | [DownStatus](https://isitdownstatus.com) | GitHub、AWS、Discord 和 90 多个服务的实时状态 | No | Yes | Yes |
 | [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html) | 一个简单的 JSON 存储 API | No | Yes | Yes |
+| [Fair Draw](https://bettip.co.za/fair-draw/api/) | Verifiable random draws bound to the drand public randomness beacon | No | Yes | Yes |
 | [GeekFlare](https://apidocs.geekflare.com/docs/geekflare-api) | 为网站的重要测试和监控方法提供众多功能 | apiKey | Yes | Unknown |
 | [GcrawlAI](https://gcrawlai.com) | 网页抓取、SERP API、屏幕截图、Markdown 的 URL 和预构建的提取器 | apiKey | Yes | Yes |
 | [Genderize.io](https://genderize.io) | 从名字估计性别 | No | Yes | Yes |
@@ -916,6 +917,7 @@
 | [Twelve Data](https://twelvedata.com/) | 股市数据（实时和历史） | apiKey | Yes | Unknown |
 | [US Mortgage Calculator](https://www.usmortgagecalc.com/developers/api) | 抵押贷款支付、摊销、负担能力和 50 个州的财产税数据 | No | Yes | Yes |
 | [VAT Validation](https://www.abstractapi.com/vat-validation-rates-api) | 验证增值税号并计算增值税率 | apiKey | Yes | Yes |
+| [VoxOdds](https://voxodds.com/api) | Polymarket and Kalshi odds, all-in executable quotes, EV checks and audited forecast scores | No | Yes | No |
 | [WallstreetBets](https://dashboard.nbshare.io/apps/reddit/api/) | WallstreetBets 股票评论情绪分析 | No | Yes | Unknown |
 | [XFINLAB](https://www.xfinlab.com/intelligence-api.html) | Market events, sentiment, technical analysis and macro data for stocks | apiKey | Yes | Unknown |
 | [Yahoo Finance](https://www.yahoofinanceapi.com/) | 用于股票市场、加密货币和货币兑换的实时低延迟雅虎财经 API | apiKey | Yes | Yes |
@@ -1899,6 +1901,7 @@
 | [PlayerElo](https://playerelo.football/api-access) | 176 个足球联赛的球员级别 Elo 评分、预测和历史记录 | apiKey | Yes | Unknown |
 | [Premier League Standings](https://rapidapi.com/heisenbug/api/premier-league-live-scores/) | 当前所有英超联赛积分榜和统计数据 | apiKey | Yes | Unknown |
 | [PropLine](https://prop-line.com) | 实时玩家道具投注赔率以及 13 本书的分级道具分辨率 | apiKey | Yes | Unknown |
+| [QiuXiaoCe Football](https://www.qiuxiaoce.com/data-docs/) | Football teams, leagues, standings, scorers and match intelligence data | No | Yes | Unknown |
 | [RacingHub](https://racinghub.net/api/v1/docs#/) | 一级方程式历史数据和统计 | No | Yes | Unknown |
 | [Sport Data](https://sportdataapi.com) | 获取世界各地的体育数据 | apiKey | Yes | Unknown |
 | [Sport List & Data](https://developers.decathlon.com/products/sports) | 与体育相关的列表和资源 | No | Yes | Yes |
@@ -1945,6 +1948,7 @@
 | [RandomUser](https://randomuser.me) | 生成并列出用户数据 | No | Yes | Unknown |
 | [restful-api](https://restful-api.dev) | 用于使用 CRUD 端点进行测试和原型设计的虚假 REST API | No | Yes | No |
 | [RoboHash](https://robohash.org/) | 生成随机机器人/外星人头像 | No | Yes | Unknown |
+| [Sampuli](https://sampuli.site/api) | Format-true synthetic test data for 90 countries: IDs, IBANs, cards, addresses | No | Yes | Yes |
 | [Spanish random names](https://random-names-api.herokuapp.com/public) | 随机生成西班牙名字（带性别） | No | Yes | Unknown |
 | [Spanish random words](https://palabras-aleatorias-public-api.herokuapp.com) | 随机生成西班牙语单词 | No | Yes | Unknown |
 | [This Person Does not Exist](https://thispersondoesnotexist.com) | 生成不存在的人的真实面孔 | No | Yes | Unknown |
@@ -2131,6 +2135,7 @@
 | [ProblemsByVin](https://problemsbyvin.com/data/) | 按车辆品牌、型号和年份分类的车主投诉、召回和故障里程统计 | No | Yes | Yes |
 | [RevCarData](https://revcardata.com) | 86,000 多个全球车辆规格和电动汽车指标 | apiKey | Yes | Yes |
 | [Smartcar](https://smartcar.com/docs/) | 锁定和解锁车辆并获取里程表读数和位置等数据。适用于大多数新车 | OAuth | Yes | Yes |
+| [TransparentCars](https://transparent.pt/en/api) | Fair-price valuation and yearly road tax (IUC) for used cars in Portugal | No | Yes | Yes |
 | [Wheelwise](https://cars.limoja.ai/api/search?q=BMW&limit=1) | 英国二手车列表，包含公平价格等级、36 个月转售预测和每个广告的真实每月成本 | No | Yes | No |
 
 <a id="video"></a>
