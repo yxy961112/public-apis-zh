@@ -4,8 +4,8 @@
 
 > 由 GitHub Actions 定时检测上游更新，自动调用翻译引擎将最新 API 目录翻译为简体中文。
 
-> - 上游最新提交：`98a20c8`（2026-09-14T21:41:33Z）
-> - 上次同步：2026-09-14 22:21 UTC
+> - 上游最新提交：`536d5c4`（2026-09-15T12:21:13Z）
+> - 上次同步：2026-09-15 13:15 UTC
 > - 许可证：沿用上游 MIT
 
 
@@ -1910,6 +1910,7 @@
 | [OpenFoot API](https://openfootapi.com/docs) | 75 场比赛的足球赛程、结果、积分榜、阵容、现场赛事和射门级别预期进球数 | apiKey | Yes | Yes |
 | [OpenLigaDB](https://www.openligadb.de) | 众包体育联赛结果 | No | Yes | Yes |
 | [Padel Snipe](https://padelsnipe.com/fr/world/api) | 遍布 9 个欧洲国家的 4,000 多个带地图的板球俱乐部，配有 GPS 和球场 | No | Yes | Yes |
+| [Parlay](https://parlay-api.com/docs) | Real-time sports odds and player props from 45+ sportsbooks and sources across 90+ sports | apiKey | Yes | Yes |
 | [PlayerElo](https://playerelo.football/api-access) | 176 个足球联赛的球员级别 Elo 评分、预测和历史记录 | apiKey | Yes | Unknown |
 | [Premier League Standings](https://rapidapi.com/heisenbug/api/premier-league-live-scores/) | 当前所有英超联赛积分榜和统计数据 | apiKey | Yes | Unknown |
 | [PropLine](https://prop-line.com) | 实时玩家道具投注赔率以及 13 本书的分级道具分辨率 | apiKey | Yes | Unknown |
