@@ -4,8 +4,8 @@
 
 > 由 GitHub Actions 定时检测上游更新，自动调用翻译引擎将最新 API 目录翻译为简体中文。
 
-> - 上游最新提交：`edd9dc1`（2026-09-17T13:58:56Z）
-> - 上次同步：2026-09-17 16:29 UTC
+> - 上游最新提交：`4cfe04f`（2026-09-18T19:39:43Z）
+> - 上次同步：2026-09-18 20:38 UTC
 > - 许可证：沿用上游 MIT
 
 
@@ -451,6 +451,7 @@
 | [Poloniex](https://docs.poloniex.com) | 美国数字资产交易所 | apiKey | Yes | Unknown |
 | [PumpFunData](https://pumpfundata.com/docs) | 历史 Pump.fun 和 PumpSwap AMM 将数据交换为每小时的 Parquet 文件 | apiKey | Yes | Unknown |
 | [Solana JSON RPC](https://docs.solana.com/developing/clients/jsonrpc-api) | 提供与 Solana 区块链交互的各种端点 | No | Yes | Unknown |
+| [SoloLuck](https://sololuck.io/api) | Bitcoin solo mining pool stats, per-address miner stats and an open dataset of solo-mined blocks | No | Yes | Yes |
 | [Technical Analysis](https://technical-analysis-api.com) | 加密货币价格和技术分析 | apiKey | Yes | No |
 | [The Coin Analysis](https://www.thecoinanalysis.com/developers) | Live and historical cryptocurrency prices, market caps, volatility and drawdown | apiKey | Yes | Yes |
 | [VALR](https://docs.valr.com/) | 总部位于南非的加密货币交易所 | apiKey | Yes | Unknown |
@@ -516,6 +517,7 @@
 | [Userstack](https://userstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) | 安全用户代理字符串查找 JSON API | OAuth | Yes | Unknown |
 | [24 Pull Requests](https://24pullrequests.com/api) | 12 月期间促进开源合作的项目 | No | Yes | Yes |
 | [Aether Bridge](https://a-to-mind.com) | Autonomous agent team management and API workflow orchestration | apiKey | Yes | Unknown |
+| [Agent Nexus](https://agentnexus.app/llms.txt) | Continuously probed registry of APIs, MCP servers and CLIs callable by agents | No | Yes | Yes |
 | [Agify.io](https://agify.io) | 从名字估计年龄 | No | Yes | Yes |
 | [Amazonscraperapi](https://amazonscraperapi.com) | 带有住宅代理的亚马逊产品、搜索和批量抓取 API（1000 个免费） | apiKey | Yes | No |
 | [AmberOne](https://scubamike124.github.io/amberone-api/) | 将任何网站转变为可构建的 Android、iOS、PWA 或 Electron 应用程序项目 | apiKey | Yes | No |
@@ -605,6 +607,7 @@
 | [Kroki](https://kroki.io) | 根据文本描述创建图表 | No | Yes | Yes |
 | [Labelixa](https://labelixa.com/docs/api) | 渲染、验证 Zebra ZPL 标签条形码并生成 PNG/PDF 格式 | apiKey | Yes | Yes |
 | [License-API](https://github.com/cmccandless/license-api/blob/master/README.md) | Choosealicense.com 的非官方 REST API | No | Yes | No |
+| [Litport Free Proxy](https://litport.net/docs/free-proxy-api) | Live-tested HTTP, SOCKS4, and SOCKS5 proxies with latency, uptime, and geolocation | No | Yes | No |
 | [Logs.to](https://logs.to/) | 生成日志 | apiKey | Yes | Unknown |
 | [Lua Decompiler](https://lua-decompiler.ferib.dev/) | 在线Lua 5.1反编译器 | No | Yes | Yes |
 | [MAC address vendor lookup](https://macaddress.io/api) | 检索有关给定 MAC 地址或 OUI 的供应商详细信息和其他信息 | apiKey | Yes | Yes |
@@ -614,6 +617,7 @@
 | [Mocky](https://designer.mocky.io/) | REST API 端点的模拟用户定义的测试 JSON | No | Yes | Yes |
 | [MY IP](https://www.myip.com/api-docs/) | 获取IP地址信息 | No | Yes | Unknown |
 | [MyIPRightNow](https://myiprightnow.com) | 包含网络、位置和连接详细信息的公共 IP 地址 | No | Yes | Yes |
+| [NameGender](https://namegender.com/docs) | Gender from a first name, full name, email or username, with probability | apiKey | Yes | Yes |
 | [Nationalize.io](https://nationalize.io) | 估计名字的国籍 | No | Yes | Yes |
 | [Nerdulator](https://nerdulator.com/api) | Everything derivable from one value: numbers, dates, colours, UUIDs, cron expressions | No | Yes | Yes |
 | [Netlify](https://docs.netlify.com/api/get-started/) | Netlify 是可编程网络的托管服务 | OAuth | Yes | Unknown |
@@ -768,6 +772,7 @@
 | [Cloudmersive Validate](https://cloudmersive.com/validate-api) | 验证电子邮件地址、电话号码、增值税号码和域名 | apiKey | Yes | Yes |
 | [Disify](https://www.disify.com/) | 验证并检测一次性和临时电子邮件地址 | No | Yes | Yes |
 | [DropMail](https://dropmail.me/api/#live-demo) | 用于创建和管理临时电子邮件收件箱的 GraphQL API | No | Yes | Unknown |
+| [Email Spam Tester](https://email-spam-tester.com/api-docs/) | Send a test message and get a spam score, 41 checks with RFC citations and a fix plan | No | Yes | Yes |
 | [EmailJS](https://www.emailjs.com/docs/) | 直接从客户端 JavaScript 发送电子邮件，无需后端服务器 | apiKey | Yes | Yes |
 | [Email Validation](https://www.abstractapi.com/email-verification-validation-api) | 验证电子邮件地址的可送达性和垃圾邮件 | apiKey | Yes | Yes |
 | [Email Validator by LifeStep](https://email.lifestep.io) | Validate email syntax and MX, detect disposable/role addresses, suggest typo fixes | No | Yes | Yes |
@@ -789,6 +794,7 @@
 | [SMTPfast](https://smtpfa.st/docs) | 发送交易电子邮件、管理联系人和广播，每月免费 3,000 封电子邮件 | apiKey | Yes | Yes |
 | [uchecker](https://api.uchecker.net/docs) | 通过完整 SMTP 服务器响应进行批量电子邮件验证 | apiKey | Yes | Unknown |
 | [Verifier](https://verifier.meetchopra.com/docs#/) | 验证给定的电子邮件是否真实 | apiKey | Yes | Yes |
+| [Xeramail Temp Mail](https://xeramail.com/docs/api) | Temp email address REST API for privacy, testing, automation with OTP extraction | apiKey | Yes | No |
 
 <a id="entertainment"></a>
 
@@ -933,6 +939,7 @@
 | [VoxOdds](https://voxodds.com/api) | Polymarket and Kalshi odds, all-in executable quotes, EV checks and audited forecast scores | No | Yes | No |
 | [WallstreetBets](https://dashboard.nbshare.io/apps/reddit/api/) | WallstreetBets 股票评论情绪分析 | No | Yes | Unknown |
 | [XFINLAB](https://www.xfinlab.com/intelligence-api.html) | Market events, sentiment, technical analysis and macro data for stocks | apiKey | Yes | Unknown |
+| [XOOMAR](https://xoomar.com/markets/api) | US market data from SEC, FINRA, CFTC and the Fed: filings, insiders, earnings dates, short interest | No | Yes | Yes |
 | [Yahoo Finance](https://www.yahoofinanceapi.com/) | 用于股票市场、加密货币和货币兑换的实时低延迟雅虎财经 API | apiKey | Yes | Yes |
 | [YNAB](https://api.youneedabudget.com/) | 预算与规划 | OAuth | Yes | Yes |
 | [Zelothorn](https://zelothorn.com/developers) | 对美国上市公司向 SEC 提交的文件和盈利数据进行通俗易懂的解释 | No | Yes | Yes |
@@ -1095,6 +1102,7 @@
 | [adresse.data.gouv.fr](https://adresse.data.gouv.fr) | 法国地址数据库、地理编码和反向 | No | Yes | Unknown |
 | [Airtel IP](https://sys.airtel.lv/ip2country/1.1.1.1/?full=true) | IP 地理定位 API。从多个来源收集数据 | No | Yes | Unknown |
 | [Apiip](https://apiip.net/) | 通过IP地址获取位置信息 | apiKey | Yes | Yes |
+| [AtlasFetch](https://atlasfetch.xyz/docs) | Reverse geocode coordinates to country, region and municipality with ISO 3166 codes | apiKey | Yes | No |
 | [Battuta](http://battuta.medunes.net) | （国家/地区/城市）级联位置 API | apiKey | No | Unknown |
 | [BdAPIs](https://bdapis.com/) | 获取孟加拉国的分区、地区和乌帕齐拉 | No | Yes | Unknown |
 | [BigDataCloud](https://www.bigdatacloud.com/ip-geolocation-apis) | 提供快速、准确的 IP 地理定位 API 以及安全检查和置信区域 | apiKey | Yes | Unknown |
@@ -1226,6 +1234,7 @@
 | [Edgrapi](https://edgrapi.com/docs) | US government data as JSON: SAM.gov contract opportunities, USAspending awards, Grants.gov grants | apiKey | Yes | Yes |
 | [EditalMD](https://editalmd.com/api/) | 巴西公共采购 (PNCP) 通知以 Markdown 形式，附有截止日期和要求 | No | Yes | Yes |
 | [EPA](https://www.epa.gov/developers/data-data-products#apis) | 来自美国环境保护局的 Web 服务和数据集 | No | Yes | Unknown |
+| [EU VAT Rates by Commodity Code](https://github.com/humora2504/eu-vat-by-commodity-code) | EU VAT rates mapped to CN and CPA commodity codes, all 27 member states | No | Yes | Yes |
 | [FastDOL](https://www.fastdol.com/docs) | 美国雇主的联邦执法记录：OSHA、WHD、MSHA、EPA、NLRB 等 | apiKey | Yes | Yes |
 | [FBI Wanted](https://www.fbi.gov/wanted/api) | 获取有关 FBI 通缉计划的信息 | No | Yes | Unknown |
 | [FEC](https://api.open.fec.gov/developers/) | 有关联邦选举竞选捐款的信息 | apiKey | Yes | Unknown |
@@ -1375,6 +1384,7 @@
 | [Juju](http://www.juju.com/publisher/spec/) | 职位搜索引擎 | apiKey | No | Unknown |
 | [JobDataLake](https://www.jobdatalake.com/docs) | 来自 20,000 多家公司的 100 万+条丰富的职位列表，包含薪资、技能、资历 | apiKey | Yes | Yes |
 | [Open Skills](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview) | 职位名称、技能和相关职位数据 | No | No | Unknown |
+| [RankFabrik Jobs](https://rankfabrik.com/produits/emplois) | Aggregated job postings search, deduplicated on identifier, with coverage per segment | apiKey | Yes | Unknown |
 | [Reed](https://www.reed.co.uk/developers) | 工作板聚合器 | apiKey | Yes | Unknown |
 | [TechRole Index](https://techrole.ru/open-data-daily) | 俄罗斯 IT 职业、职位空缺公布和薪资总额 | No | Yes | Yes |
 | [The Muse](https://www.themuse.com/developers/api/v2) | 工作委员会和公司简介 | apiKey | Yes | Unknown |
@@ -1489,6 +1499,7 @@
 | [News](https://newsapi.org/) | 目前在一系列新闻来源和博客上发布的头条新闻 | apiKey | Yes | Unknown |
 | [NewsData](https://newsdata.io/docs) | 新闻数据 API，用于来自知名新闻来源的实时突发新闻和头条新闻 | apiKey | Yes | Unknown |
 | [Newsflash](https://newsflash.sh/docs) | 对来自 260 多个来源的新闻事件进行重复数据删除，并为 AI 代理提供佐证/置信度评分 | apiKey | Yes | No |
+| [NewsMesh](https://newsmesh.co/docs) | Premium news data from thousands of sources | apiKey | Yes | No |
 | [NewsX](https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/) | 使用 ML 支持的摘要获取或搜索最新突发新闻 🤖 | apiKey | Yes | Unknown |
 | [Noozra](https://noozra.com/api) | 来自 200 多个精选 RSS 源的免费新闻头条 | No | Yes | Yes |
 | [NPR One](http://dev.npr.org/api/) | NPR 的个性化新闻收听体验 | OAuth | Yes | Unknown |
@@ -1725,6 +1736,7 @@
 | [Open Notify](http://open-notify.org/Open-Notify-API/) | 国际空间站宇航员、当前位置等 | No | No | No |
 | [Open Science Framework](https://developer.osf.io) | 研究设计、研究材料、数据、手稿等的存储库和档案 | No | Yes | Unknown |
 | [OpenAlex](https://docs.openalex.org/) | 学术著作、作者、机构、来源和概念的开放目录 | No | Yes | Yes |
+| [Open Ephemeris](https://openephemeris.com/docs) | Sub-arcsecond planetary positions, natal charts, transits, and Human Design from NASA JPL DE440 | apiKey | Yes | No |
 | [OrbitalWiki](https://orbitalwiki.com/developers) | 合并 CelesTrak、GCAT、Wikidata 的 16,000 多颗卫星目录；包含免费套餐 | apiKey | Yes | Yes |
 | [Purple Air](https://www2.purpleair.com/) | 实时空气质量监测 | No | Yes | Unknown |
 | [RCSB PDB](https://data.rcsb.org/) | 3D structures of proteins and nucleic acids | No | Yes | Yes |
@@ -1795,6 +1807,7 @@
 | [SSL Domain Health Check](https://rapidapi.com/goktugbk/api/ssl-domain-health-check) | SSL 证书有效性、域 WHOIS 状态以及任何域的 DNS 记录检查 | apiKey | Yes | Unknown |
 | [SSL Labs](https://github.com/ssllabs/ssllabs-scan/blob/master/ssllabs-api-docs-v3.md) | 深度 SSL/TLS 服务器分析，评级为 A+ 至 F | No | Yes | Unknown |
 | [Threat Jammer](https://threatjammer.com/docs/index) | 根据策划的威胁情报数据提供风险评分服务 | apiKey | Yes | Unknown |
+| [ThreatCluster](https://threatcluster.io/api/public/v1/docs) | Threat intelligence: incident clusters, validated IOCs, CVEs, ransomware leak-site victims | apiKey | Yes | No |
 | [UK Police](https://data.police.uk/docs/) | 英国警方数据 | No | Yes | Unknown |
 | [URLhaus](https://urlhaus.abuse.ch/api/) | 用于恶意软件分发的恶意 URL 数据库 | No | Yes | Unknown |
 | [Virushee](https://api.virushee.com/) | Virushee 文件/数据扫描 | No | Yes | Yes |
@@ -1921,6 +1934,7 @@
 | [Odds-API](https://docs.odds-api.io) | 通过 REST 和 WebSocket 来自超过 265 家博彩公司针对 34 项体育赛事的实时体育博彩赔率 | apiKey | Yes | Yes |
 | [OddsBench](https://oddsbench.xyz/api/) | Independent monthly latency benchmark of sports odds APIs, with free JSON and CSV data | No | Yes | Yes |
 | [Oddsmagnet](https://data.oddsmagnet.com) | 多家英国博彩公司的赔率历史记录 | No | Yes | Yes |
+| [OddsRadarWire](https://oddsradarwire.com/docs.html) | Live and prematch Betradar odds with raw no-vig probabilities, REST and SSE | apiKey | Yes | No |
 | [OpenF1](https://openf1.org/) | 实时和历史一级方程式数据，包括圈数、汽车遥测和位置 | No | Yes | Yes |
 | [OpenFoot API](https://openfootapi.com/docs) | 75 场比赛的足球赛程、结果、积分榜、阵容、现场赛事和射门级别预期进球数 | apiKey | Yes | Yes |
 | [OpenLigaDB](https://www.openligadb.de) | 众包体育联赛结果 | No | Yes | Yes |
@@ -2040,7 +2054,9 @@
 | API | 描述 | 认证 | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
 | [ADS-B Exchange](https://www.adsbexchange.com/data/) | 访问任何和所有机载飞机的实时和历史数据 | No | Yes | Unknown |
+| [Aether-X Port Congestion](https://aether-x-oracle-production.up.railway.app/docs) | Real-time port congestion risk scores, ETA delays and waiting vessels for 15 global ports | apiKey | Yes | Yes |
 | [airportsapi](https://airport-web.appspot.com/api/docs/) | 通过 ICAO 代码获取机场的名称和网站 URL | No | Yes | Unknown |
+| [Aether-X Port Congestion Oracle](https://rapidapi.com/belegante/api/aether-x-port-congestion-oracle) | Predictive port congestion, ETA delay and freight volatility signals for 16 global ports | apiKey | Yes | Yes |
 | [AIS Hub](http://www.aishub.net/api) | 任何配备 AIS 跟踪系统的海洋和内河船舶的实时数据 | apiKey | No | Unknown |
 | [Amadeus for Developers](https://developers.amadeus.com/self-service) | 旅游搜索 - 限制使用 | OAuth | Yes | Unknown |
 | [apilayer aviationstack](https://aviationstack.com/) | 实时航班状态和全球航空数据API | OAuth | Yes | Unknown |
@@ -2062,6 +2078,7 @@
 | [FAA N-Number Registry](https://n-number.starfile.org/api) | 美国每架在 FAA 注册的民用飞机，通过 N 号码或模式 S 十六进制代码查找 | No | Yes | Yes |
 | [Grab](https://developer.grab.com/docs/) | 跟踪送货、乘车费用、付款和忠诚度积分 | OAuth | Yes | Unknown |
 | [GraphHopper](https://docs.graphhopper.com/) | 带有逐向指令的 A 到 B 路由 | apiKey | Yes | Unknown |
+| [GTFS Scorecard](https://github.com/ChelseaKR/gtfs-scorecard/blob/main/docs/api.md) | Data-quality grades and prioritized fixes for 2,400+ public transit GTFS feed records | No | Yes | Yes |
 | [Icelandic APIs](http://docs.apis.is/) | 在冰岛境内或有关冰岛提供服务的开放 API | No | Yes | Unknown |
 | [Impala Hotel Bookings](https://docs.impala.travel/docs/booking-api/) | 酒店内容、价格和客房预订 | apiKey | Yes | No |
 | [Izi](http://api-docs.izi.travel/) | 为旅客提供的语音导览 | apiKey | Yes | Unknown |
